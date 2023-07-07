@@ -1,0 +1,152 @@
+DV500_61_PAS On Troubleshooting Storage Devices 
+Possible Answer Sheet
+
+
+Q1. What does it mean when you see a message on the screen that says, "Cannot read from the source disk"? 
+Ans:  The message on the screen that says, “Cannot read from the source disk” means a problem reading or writing information to the storage drive.
+
+
+Q2. What is the "click of death"? 
+Ans: The “click of death” is when we are using a hard drive, it could be that it’s making a loud clicking noise over and over again.
+
+
+Q3. What should be done first when troubleshooting storage problems? 
+Ans: When troubleshooting storage problems the first thing we should do if possible is to make a backup of all of the critical data on the drive.
+
+
+Q4. How can I check if my system is overheating? 
+Ans: We can check if our system is overheating if we notice that all of the components inside of our system are affected. Most common would be not enough voltage to properly run the storage drive.
+
+
+Q5. What can a user do if their power supply does not have enough power for a storage drive? 
+Ans: If the power supply does not have enough power for a storage drive a use can remove the hardware so we have enough power for the drive or it’s time to upgrade the power supply.
+
+
+Q6. What if you’re not sure if the problem is with the drive or something outside of the storage drive?
+Ans. If we are not sure if the problem is with the drive or something outside of the storage drive we can run some hardware diagnostics of the drive itself.
+
+
+Q7. What can the drive manufacturer provide to check the working components of a drive? 
+Ans: The drive manufacturer can provide us with a set of diagnostics that will check all of the working components of the drive and be able to tell us whether the drive is operating properly or if there’s any errors.
+
+
+Q8. What messages may occur when you boot your system? 
+Ans: The drive not recognized or boot drive not found messages may occur when we boot our system.
+
+
+Q9. What lights may occur when you boot your system? 
+Ans: Lights that show access to the drive or there may be no lights showing any access to the drive when we boot our system.
+
+
+Q10. What does it mean when an operating system is not found during startup? 
+Ans: When an operating system is not found during startup it means the drive is there but for some reason, we are not able to find an operating system installed on the storage drive.
+
+
+Q11. What is the first step to troubleshoot this issue when an operating system is not found during startup?
+Ans. The first step to troubleshoot this issue when an operating system is not found during startup we should check the physical configuration. Do we have all the cables in place and are they properly attached to the drive into the motherboard.
+
+
+Q12. The ____________maintains the list of priorities for all of the boot devices during startup.
+Ans. The BIOS
+
+
+Q13. What is the sequence for booting up in a BIOS? 
+Ans: The sequence for booting up in a BIOS is it maintains the list of priorities for all of the boot drives during startup.
+
+
+Q14. What should I check if my system is not booting? 
+Ans: We should check the storage drive that’s at the top of the list if our system is not booting.
+
+
+Q15. What should you do if you are booting from a new storage drive? 
+Ans: If we are booting from a new storage drive we should check the data and power cables to make sure that drive has physically been installed properly.
+
+
+Q16. What is a potential problem with hard drives? 
+Ans: A potential problem with hard drives is they are spinning mechanical systems. 
+
+
+Q17. What can happen if a solid state drive fails? 
+Ans: If a solid state drive fails it still allows us to read the data but not write any new data to the drive.
+
+
+Q18. What does RAID stand for?
+Ans. RAID stands for Redundant Array of Independent Disks.
+
+
+Q19. What is RAID? 
+Ans: RAID is a common way to combine drives together to maintain uptime and availability of our data.
+
+
+Q20. How do you investigate a RAID controller failure? 
+Ans: We investigate a RAID controller failure with the option of starting the Dell configuration utility to investigate and get more information about the RAID controller failure.
+
+
+Q21. What can a RAID manager tell you? 
+Ans: A RAID manager tells us what type of models those drivers might be, and can give us a status of the performance of each of the individual drives in the RAID array.
+
+
+Q22. How many drives is required in RAID 0?
+Ans. Two or more drives are required in RAID 0.
+
+
+Q23. What happens if a single drive failure occurs in a RAID 0 array? 
+Ans: If a single drive failure occurs in a RAID 0 array it will break the array, and we will have data loss.
+
+Q24. How many drives do you need for RAID 1? 
+Ans: For RAID 1 at least two drives are needed in our system.
+
+
+Q25. What is the minimum number of drives required for RAID 5? 
+Ans: The minimum number of drives required for RAID 5 are three or more drives.
+
+
+Q26. RAID 10, which you may see written as______________, requires _________________ drives. 
+Ans. RAID 1 plus 0 requires four or more drives.
+
+
+Q27. What is the full form of SMART? 
+Ans: SMART stands for Self-Monitoring, Analysis, and Reporting Technology.
+
+
+Q28. What information is provided in SMART data? 
+Ans: Spin-up time to seek error rates to power on hours and much more information is provided in SMART data.
+
+
+Q29. How often will Mini RAID arrays perform their own checks? 
+Ans: Mini RAID arrays perform their own checks either once a day, once a week, or once a month.
+
+
+Q30. What should be done when receiving a message that a drive is failing? 
+Ans: When receiving a message that a drive is failing we should back that data and replace that drive as soon as possible.
+
+
+Q31.What are the different parts of your computer system that can be used to retrieve or store the data? 
+Ans: The different parts of our computer system that can be used to retrieve or store the data we have memory access. There’s communication across the bus, the drive itself- it’s a hard drive physically spinning.
+
+
+Q32. What are some ways to measure the overall performance of our storage devices?
+Ans. Some ways to measure the overall performance of our storage devices is by measuring the number of input/output operations per second or IOPS.
+
+
+Q33. IOPS stands for?
+Ans. IOPS stands for Input/Output per second/
+
+
+Q34. How much IOPS can a hard drive achieve? 
+Ans: A hard drive can achieve max out somewhere around 200 IOPS.
+
+
+Q35. What is the IOPS of a solid state drive? 
+Ans: The IOPS of a Solid State Drive can be up to one million IOPS.
+
+
+Q36. How can we troubleshoot when certain drives are missing from the File Manager? Ans: We can troubleshoot when certain drivers are missing from the File Manager by checking the BIOS. 
+
+
+Q37. If this is an external drive that’s connected via USB, then we want to be sure we have_____________ for the drive and that we’re connecting to the appropriate __________interface.
+Ans. Power and USB.
+
+
+Q38. How do we reconnect a missing network share? 
+Ans: We reconnect a missing network share by running the login script again that will go through the process of mapping the appropriate drives.

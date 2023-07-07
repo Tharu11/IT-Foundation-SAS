@@ -1,0 +1,106 @@
+59_PAS_How to Troubleshoot 
+Possible Answer Sheet
+
+
+Q1. What can you do when working with your computer at home? 
+Ans: When working with our computer at home we can decide to perform an operating system upgrade or modify something on our network without going through a large set of processes and procedures.
+
+
+Q2. What is a formal change control process? 
+Ans: A formal change control process is when we are working in a large computing environment, which means if we want to make a change to an application or an operating system, we will need to follow these very specific guidelines in order to make the modification.
+
+
+Q3. What is the benefit of having a formal policy for making changes? 
+Ans: The benefit of having a formal policy for making changes is it allows us to make the change in an environment that’s very controlled. If there’s any problems with making that change, it gives us options for rolling back to a previous configuration.
+
+
+Q4. What is a change control environment? 
+Ans: A change control environment is the process for planning for the change that we would like to make, estimating any risks associated with making the change on the network, having a recovery plan if something goes wrong during the implementation of that change. 
+
+
+Q5. What steps should be taken before making an actual change? 
+Ans: Steps taken before making an actual change we would run tests in the lab and perform a number of simulations to see what the effects might be.
+
+
+Q6. What is the Troubleshooting Process? 
+Ans: The Troubleshooting Process is when we are presented with some type of problem that needs to be solved, there’s a standard floe that we can go through to help troubleshoot a particular issue.
+
+
+Q7. How does the troubleshooting process start?
+Ans. The troubleshooting process starts with a system or application that may be broken, and takes us all the way through the process to where we would fix or resolve whatever issue that might be.
+
+
+Q8. What is the first step in the troubleshooting process? 
+Ans: The first step in the troubleshooting process is to collect as much information as possible about the problem.
+
+
+Q9. How is the first step of the troubleshooting process useful?
+Ans: The first step of the troubleshooting process is useful because we need to get details about what people may be seeing.
+
+
+Q10. Why might it be beneficial to reach out to the user over the phone? 
+Ans: It can be beneficial to reach out to the user over the phone because over the phone someone can tell us more about the issue than we would have ever received in an email.
+
+
+Q11. What should we do if we want to see if anything may have changed in the environment from the time that this was working until the time that this problem was reported?
+Ans. We should look at the records if we want to see if anything may have changed in the environment from the time that this was working until the time that this problem was reported.
+
+
+Q12. What is the best way to approach a troubleshooting process? 
+Ans: The best way to approach a troubleshooting process is by breaking all of this down into smaller pieces and approach each symptom as its own individual problem, so we will have a better method of stepping through each one of these issues and resolving all of the problems.
+
+
+Q13. What should be done before continuing with the troubleshooting process? 
+Ans: Taking backups of everything that we have should be done before continuing with the troubleshooting process.
+
+
+Q14. What documents should be consulted to identify a potential issue with an application? 
+Ans: Documentation from the change control board should be consulted to identify a potential issue with an application.
+
+
+Q15. What does Occam's razor tell us?
+Ans. Occam’s razor tells us that the simplest explanation is often the most likely. And that’s often why we hear technicians ask us if a system may be plugged into the wall or if the network connection is plugged in well on the back of our computer.
+
+
+Q16. What should we do when trying to determine the root cause of an application issue? 
+Ans: When trying to determine the root cause of an application issue we should put the more obvious causes at the top of the list, and then put the more unusual root causes lower in that list which gives us a starting point.
+
+
+Q17. What should be done if all of the theories on the list have been tried and the root cause still cannot be identified? 
+Ans: If all of the theories on the list have been tried and the root cause still cannot be identified we should look at the documentation that’s on Google or any internal knowledge bases.
+
+
+Q18. What do we need to implement the troubleshooting step in the production environment? 
+Ans: We need to implement the troubleshooting step in the production environment because after we have created a plan of action now we conform it in our lab that one of those troubleshooting steps resolves the issue.
+
+
+Q19. What should be done if something unexpected happens during the implementation of the plans? 
+Ans: If something unexpected happens during the implementation of the plans we need a plan that not only incorporates the change that we want to make, but also allows us to revert back if we run into any problems. 
+
+
+Q20. Do the change control board give us a time and a date to make the change?
+Ans. Yes, the change control board gives us a time and a date to make the change so we take all of our plans that we have created and we implement that change in our environment.
+
+
+Q21. What should be done if there is limited time to fix the application issue? 
+Ans: If there is limited time to fix the application issue we may need to pull in additional resources to help perform multiple functions simultaneously.
+
+
+Q22. How can you tell if the fix worked? 
+Ans: We can tell if the fix worked because there are a set of tests that we have defined prior to making the changes that would allow us to test the environment, confirm that it’s still working, and confirm that the original problem was resolved.
+
+
+Q23. What do we need to do after resolving an issue? 
+Ans: After resolving an issue we need to be sure that we document everything that we did, not only because we need some way to confirm the changes we made, but later on if we run into this problem again, we will have some documentation that will tell us how we resolved it last time.
+
+
+Q24. Most environments will have help desk software or _______________that’s perfect for adding this documentation so that everyone will have access to this data.
+Ans. Knowledge-based software.
+
+
+Q25. What is the troubleshooting process? 
+Ans: The troubleshooting process is we start with a system or application that’s broken, we identify and gather information about what the problem is with the system, and then create a list or set of theories on what we think might be causing the issue.
+
+
+Q26. What do we need to do before implementing a plan to fix the issue during the troubleshooting process?
+Ans. Before implementing a plan to fix the issue during the troubleshooting process we would then step through every single one of these theories to see if it fixes the problem or if we’re back to square one. And if it does fix the problem, we can create a plan of action for implementing the fix in our production environment.
