@@ -1,0 +1,68 @@
+19_PAS ON VLANs and VPNs
+Possible Answer Sheet
+
+
+* What is a LAN?
+= A LAN is a Local Area Network, commonly seen as a group of devices that are in the same broadcast domain. 
+
+* Why might we want to segment a network into smaller pieces?
+= We want to segment a network into smaller pieces because we might want to limit the number of broadcasts that might be on a network.
+
+* What are the inefficiencies of using multiple switches for a LAN?
+The inefficiencies of using multiple switches for a LAN would be powering multiple switches, managing the configuration of multiple switches, and costing more to maintain multiple switches.
+
+* What is VLAN?
+= VLAN is a virtual local area network that is a virtualized connection that connects multiple devices and networks from different LANs into one network. Which means it doesn’t need separate switches.
+
+
+* How does VLAN solve the inefficiencies of using multiple switches?
+= VLAN solves the inefficiencies of using multiple switches by being able to associate a VLAN with a number instead of color. 
+
+* How can we make a LAN more efficient and cost-effective?
+= A LAN can be made more efficient and cost-effective by making it easier to manage the network while keeping the cost lower by having a single switch instead of having to purchase multiple switches.
+
+* How does VLAN provide separation between different networks?
+= VLAN provides separation between different networks by allowing networks to subdivide a physical network into separate broadcast domains.
+
+
+* What are the advantages of using VLAN over multiple switches?
+= The advantage of using VLAN over multiple switches is that it allows users to  separate their network without having separate switches, meaning a single switch can connect users to multiple different networks.
+
+* How does using a single switch with VLANs help to manage and lower costs for a LAN?
+= Using a single switch with VLANs helps to manage and lower costs for a LAN by being able to communicate with one another through VLAN switches making them manageable and lower cost to operate.
+
+* What is a VPN and how does it work?
+= A VPN is a combination of software and hardware that allows us to securely send information across a public network such as the internet. It works by being able to send everything over the VPN connection encrypted automatically.
+
+* Everything sent over a VPN connection is automatically encrypted, making it unreadable if intercepted by anyone in the middle.
+= YES.
+
+* The user can connect and disconnect from the VPN using this interface and may also have options to configure the VPN connection settings?
+= YES.
+
+
+* Are VPNs typically hardware or software-based?
+= VPNs can be both hardware which we can attach to our devices so the network connection is encrypted and we also have VPN software which are running on a server. 
+
+
+* What is the advantage of using a VPN in a coffee shop?
+= The advantage of using a VPN in a coffee shop would be that the information being sent or received by the device using the coffee shop network won’t be a problem because the VPN is installed in the device(laptop).
+
+
+* How does the VPN concentrator handle incoming and outgoing data?
+= The VPN concentrator handles incoming and outgoing data by creating an encrypted tunnel between users device and VPN Concentrator which means everything sent from that device is encrypted across the wireless network. After the VPN concentrator gets the data from the sender it will decrypt the data and send it to the receiver. 
+
+
+* Can VPN software be installed on operating systems?
+= YES.
+
+
+* Most modern operating systems come included with some type of VPN client.
+= YES.
+
+* What is a VPN concentrator?
+= A VPN concentrator is a device that can be a stand alone device that does encryption and decryption or most commonly seen it is integrated into a firewall.
+
+
+* The entire process of VPN data encryption happens behind the scenes and is automatic as soon as you enable the VPN software
+= YES.

@@ -1,0 +1,30 @@
+﻿22_PAS ON NETWORK TOOLS
+Possible Answer Sheet
+
+
+Q1. What is cable crimping?
+A. Cable crimping is running new cables and it's common to run the cable itself without any connectors on the end and it takes a tool that is specially designed to add connectors onto the end of the cable.
+
+
+Q2. What is a modular connector?
+A. A modular connector is the final step in the process of running the cable through the floor or the ceiling, and having the cable on both sides that need to have a connector added to the end of those cables. This would be the copper connections at the end of the RJ45 connection.
+
+
+Q3. What is a wifi analyzer?
+A. A wifi analyzer is understanding all of the different frequencies that are in use on the wireless network and what’s happening over the air is where we could use a wifi analyzer. These wifi analyzers listen to all of the signals on the wireless network.
+
+
+Q4. What is a tone generator and probe?
+A. A tone generator is most commonly seen around a data center or large network where finding the right wire can be hard when we use a tone generator or a toner probe which is used to identify the cable. It works by adding a signal onto the copper wire.
+
+
+Q5. What is a punch down tool?
+A. A punch down tool is used when connecting a punch down block and punch down tool is a specialized tool used to connect wire into the punch down block permanently. Each wire is individually fastened into the punch down block and excess wire is cut off making perfect connection to the block.
+
+
+Q6. What are cable testers?
+A. Cable testers come in two different units and we plug each one of them into the two ends of the cable. Later we perform a continuity test, which tells us if the pin 1 is connected to pin 1 and pin 2 to pin 2. 
+
+
+Q7. What is a loopback plug?
+A. A loopback plug is used when troubleshooting. It's important to see if the problem is in the cable or the interface on the device. That's how the loopback plug is used to test the interface. The data coming out of the interface, looping background, and going right back into that same device. Which allows us to send information out a serial port, receive that information immediately back in that serial port, and be able to compare those two values to see if they match.

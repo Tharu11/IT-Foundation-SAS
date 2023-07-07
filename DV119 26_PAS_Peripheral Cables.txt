@@ -1,0 +1,96 @@
+﻿26_PAS_Peripheral Cables
+Possible Answer Sheet
+
+
+Q1. What is one of the most common methods of connecting peripherals to computers? Ans: One of the most common methods of connecting peripherals to computers is by using USB (Universal serial bus) for example, connecting a mouse, a keyboard, a printer or any other peripheral.
+
+
+Q2. One of the early versions of USB was________, and it had ______different speeds.
+Ans. One of the early versions of USB was USB1.1, and it had two different speeds.
+
+
+Q3. The early versions of USB had a low speed, which was _________megabits per second and a maximum cable length of around ________ meters.
+Ans. The early versions of USB had a low speed, which was _1.1__megabits per second and a maximum cable length of around __3__ meters.
+
+
+Q4. What is the maximum speed of USB 2.0? 
+Ans: The maximum speed of USB 2.0 was 480 megabits per second over the maximum 5 meter cable size.
+
+
+Q5. What is USB 3.0? 
+Ans: USB 3.0 is an upgrade for USB 2.0 and it is also known as super speed USB. It also supports 5 gigabits per second over a 3 meter cable.
+
+
+Q6. What are some common connectors from the USB 1.1 and 2.0 versions? 
+Ans: Some common connectors from the USB 1.1 and 2.0 versions are the Standard-A plug, which is very similar to the standard-A plug that we find on most devices. 
+
+
+Q7. The USB 3.0 micro-B plug is very different from the USB 2.0 version.(T/F)
+Ans. True.
+
+
+Q8. What is the USB-C connector? 
+Ans: The USB-C connector is a new type of connector for USB, it’s different from the A connectors with USB-C. We just simply plug-in and there is no top or bottom either way.
+
+
+Q9. What is the maximum speed of USB 3.0? 
+Ans: The maximum speed of USB 3.0 is 5 gigabits per second.
+
+
+Q10. How does USB 3.2 improve bandwidth? 
+Ans: USB 3.2 improved bandwidth because there is standard use of extra lanes of communication inside of the USB-C cable which enhances throughput.
+
+
+Q11. What is the size of the USB-C connector? 
+Ans: The size of the USB-C connector is slightly larger than the micro-B, but not by much.
+
+
+Q12. What is the name of the USB 3.0 connection type? 
+Ans: The name of the USB 3.0 connection type is USB-C.
+
+
+Q13. What is an update of USB 3.0?
+Ans. An update of USB 3.0 is USB 3.1 gen 1.
+
+
+Q14. What is the latest version of USB released in 2017? 
+Ans: The latest version of USB released in 2017 is USB 3.2.
+
+
+Q15.The standard that used to be USB 3.0, which we change to _______Gen 1 is now called ______Gen 1 or superspeed USB __gigabits per second.  
+Ans. The standard that used to be USB 3.0, which we change to _USB 3.1__Gen 1 is now called _USB 3.2_Gen 1 or superspeed USB _5_gigabits per second.  
+
+
+Q16. What is the maximum throughput of USB 3.2 Gen 2 times 2?
+ Ans:  The maximum throughput of USB 3.2 Gen 2 times 2 is 10 gigabit per second.
+
+
+Q17. What is Thunderbolt? 
+Ans: Thunderbolt is a high speed serial connection that is able to put data and power on the same cable.
+
+
+Q18. Thunderbolt version 1 is a________channel technology and you can put________ _gigabits per second over each of those channels for a maximum throughput of __________gigabits per second.
+Ans.  Two channels, 10 gigabits per second, 20 gigabits per second.
+
+
+Q19. What is the total aggregated throughput for a Thunderbolt version 3 connection? Ans: The total aggregated throughput for a Thunderbolt version 3 connection is 40 gigabits per second.
+
+
+Q20. Thunderbolt signals can be set over both ______or _________ connections. 
+Ans. Thunderbolt signals can be set over both _copper_or _fiber__ connections. 
+
+
+Q21. What is the maximum length of a Thunderbolt connection? 
+Ans: The maximum length of a Thunderbolt connection using copper is 3 meters and using fiber/optic is 60 meters.
+
+
+Q22. How many Thunderbolt devices can be daisy-chained together? 
+Ans: Six different devices can be daisy-chained together using Thunderbolt.
+
+
+Q23. Before we had a universal serial bus, we were using _____ pin and ____ pin serial connections on our computers to be able to connect peripherals.
+Ans. nine pin and 25 pin.
+
+
+Q24. What type of connectors were used before the invention of the Universal Serial Bus? 
+Ans: DB-9 or DB-25 connectors were used before the invention of the Universal Serial.

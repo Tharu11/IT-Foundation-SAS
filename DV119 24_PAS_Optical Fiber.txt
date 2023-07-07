@@ -1,0 +1,61 @@
+﻿24_PAS_Optical Fiber
+Possible Answer Sheet
+
+
+Q1. What are the benefits of using ethernet over optical fiber as opposed to twisted pair copper cabling? 
+Ans: The benefits of using ethernet over optical fiber as opposed to twisted pair copper cabling is that there are ethernet standards that support communication over optical fiber also known as transmission by light.
+
+
+Q2. What do you mean by transmission by light?
+Ans. Transmission by light means we send light signals down one side of the fiber and receive the light on the other side being able to transmit data over long distances without any copper cabling. 
+
+
+Q3. Another characteristic of fiber optic communication is because we’re sending light signals, there’s no ______________.
+Ans. there’s no radio frequencies. 
+
+
+Q4.What is the advantage of using fiber optics for communication? 
+Ans: The advantage of using fiber optics for communication is that communication over fiber optics can be done to a distance that’s much farther than we can communicate using copper cabling.
+
+
+Q5. Radio frequencies tend to have a larger distance than fiber optics. (T/F)
+Ans. False, Radio frequencies tend to have a shorter distance than fiber optics. 
+
+
+Q6. What if there’s any radio frequencies in your immediate area, then what is the impact on Fiber optics?
+Ans. If there’s any radio frequencies in our immediate area there will be no impact on the signal going across the fiber optic network.
+
+
+Q7. What does the fiber optic connection look like? 
+Ans: The fiber optic connection looks very small compared to copper cable, the actual fiber is small on the very end of the ferrule that’s protecting the fiber optics. 
+
+
+Q8. What is the purpose of the buffer coating in a fiber optic cable? 
+Ans: The purpose of the buffer coating in a fiber optic cable is to protect everything that’s on the inside of the fiber optic cable.
+
+
+Q9. What is the purpose of the cladding surrounding the core in fiber optics? 
+Ans: The purpose of the cladding surrounding the core in fiber optics is that it has a low reflective index, meaning that any light that happens to hit the cladding is usually absorbed by the cladding instead of being reflected back in through the core.
+
+
+Q10. What is usually found at the end of a fiber optic connection? 
+Ans: At the end of a fiber optic connection we find a ferrule which is a large ceramic protector that goes around the fiber optics.
+
+
+Q11. What are two broad categories of fiber optics?
+Ans. The two broad categories of fiber optics are a multi-mode fiber and a single-mode fiber.
+
+
+Q12. What type of fiber optic cable is commonly used for large range communication? Ans: The fiber optic cable that is commonly used for large range communication is a single-mode fiber.
+
+
+Q13. Each networking standard has its own set of maximum distances that you can use, depending on what type of____________you’re using.
+Ans. depending on what type of cabling you’re using.
+
+
+Q14. What type of light source is commonly used with multi-mode fiber? 
+Ans: Light source that is commonly used with multi-mode fiber is lasers.
+
+
+Q15. What type of fiber optic cable is commonly used for short range communication? 
+Ans. Fiber optic cable that is commonly used for short range communication is Multi-mode fiber.

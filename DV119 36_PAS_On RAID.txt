@@ -1,0 +1,89 @@
+36_PAS_On RAID 
+Possible Answer Sheet
+
+
+Q1. What is used to store large amounts of information? 
+Ans: A hard drive is used to store large amounts of information and we can store terabytes upon terabytes of our data that can be stored into a single spinning drive.
+
+
+Q2. What can happen to hard drives eventually? 
+Ans: In a hard drive there are moving parts inside of these drives, they will eventually fail.
+
+
+Q3. What can be done to ensure data remains available if a drive fails? 
+Ans: To ensure data remains available if a drive fails we can use RAID arrays which we can configure to provide this type of data redundancy. RAID is a very good way to backup data.
+
+
+Q4. What is RAID? 
+Ans: RAID can be seen as the data that we are actively retrieving or storing and RAID helps maintain uptime and availability if one of the drives happens to fail.
+
+
+Q5. What does RAID stand for? 
+Ans: RAID stands for Redundant Array of Independent Disks.
+
+Q6. What is the difference between earlier versions of RAID and the current version? 
+Ans: The difference between earlier versions of RAID and the current version is that in earlier versions the word used was Inexpensive Disks instead of Independent Disks like the current one.
+
+
+Q7. Do all RAID levels provide redundancy? 
+Ans: No, all RAID levels do not provide redundancy so we have to be careful when we are initially setting up a RAID array and choose the right RAID level.
+
+
+Q8. We referred to different types of RAID as ____________.
+Ans. Different RAID levels.
+
+
+Q9. What is RAID 0 or striping? 
+Ans: RAID 0 or striping we have at least two drives in a RAID 0 array and instead of writing everything to one drive or everything to the other drive, we take all of our data and we split it evenly between the two drives.
+
+
+Q10. What is the benefit of splitting a single file across multiple drives? 
+Ans: The benefit of splitting a single file across multiple drives is that distributing them across multiple drives provides a performance increase because we only have to write or read half of the data if we have two separate drives.
+
+
+Q11. What is the problem with RAID 0? 
+Ans: The problem with RAID 0 is that if we lose one of the drives, none of the data will now be available because we have effectively lost half of the data that we have stored meaning that RAID 0 is the same as having 0 redundancy.
+
+
+Q12. How is RAID 1 different from RAID 0? 
+Ans: The difference between RAID 1 and RAID 0 is that with RAID 0 there is a disk 0 and disk 1. But with RAID 1 we are duplicating data between both of the drives so each drive is effectively mirroring the image of the other.
+
+
+Q13. What is the benefit of having duplicate drives? 
+Ans: The benefit of having duplicate drives is that the drives are a mirror image of the other drive.
+
+
+Q14. What is the consequence of having duplicate drives? 
+Ans: The consequence of having duplicate drives is that we are using twice as much drive space than we would use with RAID 0.
+
+
+Q15. : What is RAID 5? 
+Ans: RAID 5 is striping with parity similar to RAID 0.
+
+
+Q16. How does RAID 5 work? 
+Ans: RAID 5 works by taking all the information we stored and puts pieces of that data across different drives. Additionally there is parity information stored in the drive which allows us to rebuild the data if we happen to lose any of these physical drives.
+
+
+Q17. What is the purpose of RAID 5? 
+Ans: The purpose of RAID 5 is recovery process if a single drive fails on RAID 5 array we can retrieve them.
+
+
+Q18. What happens if a single drive is lost in a RAID system? 
+Ans: If a single drive is lost in a RAID system we are able to rebuild the data in real time by taking advantage of the parity information that we stored separately. But haing to recalculate the data in real time could harm the performance of the CPU cycle required to do that.
+
+
+Q19. What is RAID 10? 
+Ans: RAID 10 is a strip of mirrors.
+
+
+Q20. What does a RAID 0 configuration look like? 
+Ans: RAID 0 configuration looks like three separate physical drives and data is evenly distributed across all three drives and if we lose any one of the physical drives then all of our data is inaccessible.
+
+
+Q21. What is RAID 1 plus 0? 
+Ans: RAIF 1 plus 0 is RAID 0 and we add RAID 1 part the mirroring aspect and we start mirroring all of our RAID 0 arrays.
+
+
+Q22. What are the benefits of RAID 1 plus 0? 
+Ans: The benefits of RAID 1 plus 0 is that we are still storing three separate strips of data but instead of only having one copy of the stirp we are mirroring each of those strips of data that way if we lose any one drive we are still up and running because we have an exact duplicate of that strip.

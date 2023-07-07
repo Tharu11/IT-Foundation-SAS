@@ -1,0 +1,62 @@
+25_PAS_568A and 568B Colors
+Possible Answer Sheet
+
+
+Q1. What are the international standards for cabling? 
+Ans: The international standards for cabling is the ISO/IEC 11801 cabling standards.
+
+
+Q2. The TIA standard for cabling is the _________standard, which is the ___________________Standard.
+Ans. TIA 568 standard, Commercial Building Telecommunications Cabling standard.
+
+
+Q3. What does TIA stand for?
+Ans. TIA stands for Telecommunications Industry Association.
+
+
+Q4. What does the TIA 568 standard cover? 
+Ans: The TIA 568 standard cover has two options we can use when punching down or applying different colored wires to our ethernet connection.
+
+
+Q5. What are the two standards for 8P8C connectors? 
+Ans: The two standards for 8P8C connectors are 568A and 568B they provide us the colors that we’ll use for our 8P8C connectors.
+
+
+Q6. What are 8P8C connectors?
+Ans. The 8P8C connectors are 8 position 8 conductor connectors.
+
+
+Q7. What is the 568A coloring scheme associated with? 
+Ans: The 568A coloring scheme is associated with horizontal cabling.
+
+
+Q8. What is the difference between the 568A and the 568B color standards? 
+Ans: There isn’t much difference between the 568A and the 568B color standards because they both work exactly the same and have the same functionality.
+
+
+Q9. : What color scheme do ethernet crossover cables use? 
+Ans: The color scheme ethernet crossover cables use are 568 color scheme on one side of the cable and a 568B color scheme on the other side of the cable.
+
+
+Q10. What do the 568A and 568B standards specify? 
+Ans. The 568A and 568B standards specify that they are not associated with ethernet crossover cables, and if we want to know how an ethernet crossover cable is designed, we’ll need to look at the IEEE standards.
+
+
+Q11. What is the difference between T568A and T568B? 
+Ans: The difference between T568A and T568B would be the colors that we would use inside of the connector and there are slight differences between the two wires.
+
+
+Q12. How are pins 1 and 2 different between the 568A and 568B standards? 
+Ans: The pins 1 and 2 different between the 568A and 568B standards are the white and green green versus white and orange and orange. 
+
+
+Q13. What is the best way to tell what standard is in use for an ethernet cable? 
+Ans: The best way to tell what standard is in use for an ethernet cable is looking at the back of an ethernet cable and seeing exactly what the colors might be on the particular pin out.
+
+
+Q14. What are the colors in the A and B standard? 
+Ans: The colors in the A and B standard are the blue colors and the brown colors that are exactly the same between the A and the B standard.
+
+
+Q15. Write an example of a block that has a  different color assigned to A & B standard.
+Ans. An example of a block that has a different color assigned to A & B standard is that we can see the side of the block, with the four colors that we would use for A or the four colors that we would use for B. If we turn the block around we would see four more colors that’s associated with the four different connectors on the other side of the block.

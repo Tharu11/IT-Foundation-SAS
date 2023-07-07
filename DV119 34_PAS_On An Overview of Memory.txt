@@ -1,0 +1,94 @@
+34_PAS_On An Overview of Memory 
+Possible Answer Sheets
+
+
+Q1. What is RAM? 
+Ans: RAM Random Access Memory is a type of memory that we commonly use inside of our personal computers. Whenever installing an application or an operating system, there is a specification that requires us to have a certain amount of memory inside our machine/system.
+
+
+Q2. What type of memory slots are used in computers nowadays? 
+Ans: The memory slots that are used in computers nowadays are designed to transfer data very quickly between the information that’s in the memory modules and the CPU of our system.
+
+
+Q3. The specific type of memory in your system can vary widely so make sure you look at your_____________________ to know exactly what type of memory needs to be installed in those memory slots.
+Ans.  Motherboard Documentation.
+
+
+Q4. What is a SO-DIMM? 
+Ans: So-DIMM Small Outline Dual In-Line Memory Module it’s about the width of a normal dual in-line memory module. These are very common on laptops and other mobile devices.
+
+
+Q5. How do you install a DIMM onto memory slots on a motherboard? 
+Ans: To install a DIMM onto memory slots on a motherboard we would push it very lightly into the slot, and there are clios on the end that will hold that memory in place so that it can’t accidentally be removed.
+
+
+Q6. Another common specification for these DIMMs is information is transferred in and out of the DIMM in _____________________data widths. 
+Ans. DIMM in 64-bits data widths. 
+
+
+Q7. What type of memory modules are typically used on laptops? 
+Ans: On laptops SO DIMM Small Outline Dual In-Line Memory Module is used.
+
+
+Q8. What type of memory should I install in the memory slots of my system? 
+Ans: For memory you can install DIMM Dual In-Line Memory Module in the memory slots of your system.
+
+
+Q9. What is the black component on memory modules? 
+Ans: The black component on memory modules is the RAM that is located on those modules.
+
+
+Q10. Why do we refer to RAM as a D-RAM?
+Ans. We refer to RAM as a D-RAM because this constantly needs to be refreshed so that the data does not disappear.
+
+
+Q11. What does the random part of random access memory mean? 
+Ans: The random part of random access memory means that we can access any data that’s on any part of this module by simply asking for it.
+
+
+Q12. What is the clock on our system used for? 
+Ans: The clock on our system is used to regulate the flow of data in and out of the memory module, and every clock cycle, there will be some data that is transferred either in or out of this system.
+
+
+Q13. Why are there notches on the bottom of the DIMMs and SO-DIMMs? 
+Ans: The notches on the bottom of the DIMMs and SO-DIMMs are to prevent us from using the wrong type of memory in our system.
+
+
+Q14. What if you try to install a DDR2 module into a system with a DDR3 slot?
+Ans. If we are trying to install a DDR2 module into a system with a DDR3 sloth we will notice that particular notch will not allow that memory to be installed.
+
+
+Q15. What is the difference between SDR memory and DDR memory? 
+Ans: The difference between SDR memory and DDR memory would be DDR double data rate can transfer twice on a single clock cycle, meaning it will transfer twice as much as a SDR single data rate.
+
+
+Q16. What does DDR stand for?
+Ans. DDR stands for Double Data Rate.
+
+
+Q17. Why do we use DDR?
+Ans. We used DDR because we can transfer data two in a single clock cycle.
+
+
+Q18. ___________allowed you to increase the data rates to be twice as fast as those older DDR2 systems.
+Ans. Older DDR2 memory allowed
+
+
+Q19. What is the maximum RAM of DDR3 memory modules? 
+Ans: The maximum RAM of DDR3 memory modules is 16 gigabytes per second.
+
+
+Q20. What does the notch at the bottom of a DDR3 memory module do? 
+Ans: The notch at the bottom of a DDR3 memory module ensures that it will only be installed on a system that can support DDR3.
+
+
+Q21. What is the maximum amount of storage on a single DDR4 module? 
+Ans: The maximum amount of storage on a single DDR4 module is 64 gigabytes.
+
+
+Q22. What type of memory is supported by newer motherboards? 
+Ans: DDR5 memory is supported by newer motherboards.
+
+
+Q23. What is the difference between DDR4 and DDR5 memory? 
+Ans: The difference between DDR4 and DDR5 memory will be the notch or key that’s on the memory which have been moved so we can only use DDR5 memory on a motherboard specifically designed for DDR5.

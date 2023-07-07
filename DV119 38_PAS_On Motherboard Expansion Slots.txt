@@ -1,0 +1,106 @@
+﻿38_PAS_On Motherboard Expansion Slots
+Possible Answer Sheet
+
+
+Q1. What components are attached to a motherboard? 
+Ans: There are a lot of different components that are attached to these systems. There’s CPU and memory and storage and expansion slots, and there needs to be some way that all of these different components can communicate with each other.
+
+
+Q2. What is the purpose of a motherboard? 
+Ans: The purpose of a motherboard can be seen as a way that all of the components communicate with each other.
+
+
+Q3. What allows components on a motherboard to communicate with each other? 
+Ans: The components on the motherboard have some level of modularity which allows components on a motherboard to communicate with each other.
+
+
+Q4. What does PCI stand for?
+Ans. PCI stands for Peripheral Component Interconnect.
+
+
+Q5. PCI is a standard that’s been around since ___________.
+Ans. since 1994
+
+
+Q6. Are there different bus sizes for PCI? 
+Ans: The different bus sizes for PCI are a 32-bit PCI and a 64-bit PCI bus.
+
+
+Q7. What kind of communication does PCI use? 
+Ans: PCI uses parallel communication.
+
+
+Q8. Is PCI still used in modern computers? 
+Ans: No, PCI is not used in modern computers, it was popular among older devices.
+
+
+Q9. PCI is a type of connector that you might find on _____________.
+Ans. FInd on Legacy Devices.
+
+
+Q10. What type of expansion slots are present on the motherboard? 
+Ans: Types of expansion slots that are present on the motherboard are 64 bit expansion slot and 32 bit PCI slot.
+
+
+Q11. What is the difference between a 32-bit and 64-bit expansion slot? 
+Ans: The difference between a 32 bit and 64 bit expansion slot would be the size 64 bit slot is twice the size of 32 bit expansion slot.
+
+
+Q12. What voltages do the PCI expansion cards support? 
+Ans: The PCI expansion cards support 3.3 volt capability or a 5 volt capability.
+
+
+Q13. Everything that’s on the back of this card has extra contacts that designate the 64-bit width of this bus. (True/False?
+Ans. Yes.
+
+
+Q14. What indicates that the card is a 64-bit card? 
+Ans: The 64 bit key card additional content on back of the card indicates a 64 bit card.
+
+
+Q15. What is the key in the adapter used for? 
+Ans: The key in the adapter is used to install the card, meaning we put it right on the top of the PCI interface.
+
+
+Q16. How do we install the card? 
+Ans: We install the card by putting it right on the top of the PCI interface, and then we would gently press down so that all of the contacts are going directly onto the slot itself on the motherboard.
+
+
+Q17. What replaces the PCI bus on newer computers? 
+Ans: The newer PCI express bus replaced the PCI bus.
+
+
+Q18. What type of connection does PCI Express use? 
+Ans: The PCI Express uses a serial connection.
+
+
+Q19. What is the communication path used by PCI Express devices?
+Ans: The communication path used by PCI Express devices is called a PCI express lane.
+
+
+Q20. How many full-duplex lanes are available on a PCI express bus? 
+Ans: There are 1, 2, 4, 8, 16, or 32 full-duplex lanes available on a PCI express bus.
+
+
+Q21. How can we increase the bandwidth between the two devices? 
+Ans: We increase the bandwidth between the two devices by using an expansion slot that has more lanes.
+
+
+Q22. What type of expansion slots are on the motherboard? 
+Ans: The expansion slots that are on the motherboard would be two PCI slots, PCI express slot.
+
+
+Q23. What does a PCI express adapter card look like? 
+Ans: A PCI express adapter card looks very similar to the PCI, but the slots and the number of contacts on the card are very different from a PCI adapter.
+
+
+Q24. How do you install a PCI express adapter? 
+Ans: We would install a PCI express adapter by usually putting the hook or lock into the adapter slot first and then push down very gently to slide the rest of the card down into the adapter slot.
+
+
+Q25. What should you do if the card is not installed? 
+Ans: If the card is not installed then we should pull it back out, have a look at the different settings on our card and on the slot, and then try installing the card again.
+
+
+Q26. What is needed to ensure a card slides into a slot easily? 
+Ans: To ensure a card slides into a slot easily we need to have everything aligned.

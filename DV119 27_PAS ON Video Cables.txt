@@ -1,0 +1,15 @@
+27_PAS ON Video Cables
+Possible Answer Sheet
+
+
+Q1. What is VGA cable? 
+= VGA cable is a video format type connector and it stands for Video Graphics Array. The connector itself is a DB-15 connector although technically that particular size is a DE-15 but we refer to this as a DB-15 connector.
+
+Q2. What is an HDMI cable?
+= An HDMI cable can be seen as a more modern type of video connection which stands for High Definition Multimedia Interface. This connection not only includes the video signal but can also incorporate audio within the same cable.
+
+Q3. What is display port cable?
+= Display port cable is another video standard this cable is a digital standard and is able to send packetized video and audio signals over the DisplayPort interface.
+
+Q4. What is DVI cable? 
+= DVI cable known as Digital Visual Interface has many different types of interfaces in the DVI family. It allows us to send video signals over what we call single like and dual like.

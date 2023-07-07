@@ -1,0 +1,86 @@
+﻿37_PAS_On Motherboard Form Factors
+Possible Answer Sheets
+
+
+Q1. What is the fundamental physical component within all of our computers? 
+Ans: The fundamental physical component within all of our computers is the motherboard. 
+
+
+Q2. What does the motherboard generally contain? 
+Ans: The motherboard generally contains the CPU, spaces for memory, GPU. There’s connectivity to power. We have additional slots that we can use to expand the capabilities of the system. 
+
+
+Q3. What is one factor when choosing a motherboard? 
+Ans: One factor when choosing a motherboard is that we have to look at the case and decide if the motherboard will fit in that case.
+
+
+Q4. One thing that doesn’t seem to change much between motherboard versions, though, is the _______________.
+Ans. Power connector.
+
+
+Q5. How many sizes and types of motherboards are there? 
+Ans: When it comes to the sizes and types of motherboards we have many different sizes depending on our requirements. 
+
+
+Q6. Are motherboards generally compatible between cases? 
+Ans: Yes, motherboards are generally compatible between different cases.
+
+
+Q7. Can you fit a very large size motherboard in a desktop computer?
+Ans. Yes, we can fit a very large size motherboard in a desktop computer because we have a lot of room for a motherboard in a desktop computer.
+
+
+Q8. What size of motherboards can you fit in a small form factor device? 
+Ans: We can only fit the smallest of motherboards in a small form factor device.
+
+
+Q9. What should you consider when selecting a motherboard? 
+Ans: When selecting a motherboard we should consider what sort of particular task we want to perform and how we might install that particular motherboard and we have to look at the dimensions and particular models of the motherboard.
+
+
+Q10. What type of motherboard is typically found in a desktop computer? 
+Ans: The standard ATX is the motherboard that we would most likely find in a desktop computer. It has a lot of real estate, plenty of expansion slots, lots of memory, and there’s plenty of room inside of a desktop for the ATX size motherboard.
+
+
+Q11. What is the size difference between a standard ATX motherboard and a Mini-ITX motherboard? 
+Ans: Size difference between a standard ATX motherboard and a MINI-ITX motherboard is that ATX motherboard is larger in size and can fit in most Desktops. However, the MINI-ITX motherboard is perfect for the small form factor computer . 
+
+
+Q12. An ATX motherboard is a standard for desktop computers that has been around since __________and is very popular today.
+Ans. since 1995.
+
+
+Q13. What does ATX motherboard stand for?
+Ans. ATX stands for Advanced Technology Extended.
+
+
+Q14. How many pins does the ATX power connector have? 
+Ans: The ATX power connector has 20 or 24 pins depending on size.
+
+
+Q15. Does an ATX motherboard have additional power for the CPU? 
+Ans: Yes, an ATX motherboard might have additional power for the CPU.
+
+
+Q16. How many expansion slots are available? 
+Ans: There are a number of different expansion slots and there are four slots available for memory.
+
+
+Q17. Does the motherboard have additional power for CPUs that require some additional voltage? 
+Ans: Yes, the motherboard has additional power for CPUs that require some additional voltage and that additional power is right next to the CPU.
+
+
+Q18. What type of motherboard is suitable for small form factors? 
+Ans: An ITX motherboard is suitable for small form factors. 
+
+
+Q19. What is the purpose of using a small motherboard? 
+Ans: The purpose of using a small motherboard is that we can fit them in small cases and they can be stored anywhere without taking large spaces.
+
+
+Q20. ITX is a style of motherboard that was created by ______________ in __________.
+Ans. Created by VIA Technologies in 2001.
+
+
+Q21. What are the advantages of using an ITX motherboard? 
+Ans: The advantages of using an ITX motherboard is that they are small in size and can fit in a small area. If someone is looking for a small case ITX would be an ideal option compared to a full size Desktop with ATX motherboard.

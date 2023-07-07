@@ -1,0 +1,115 @@
+21_PAS ON NETWORK TYPES
+Possible Answer Sheet
+
+
+1. What is a LAN?
+= A LAN is a Local Area Network. It can be seen as devices that are in a building or group of buildings that are nearby and a LAN network connects those devices there.
+
+
+2. What are the typical network connections for a LAN?
+= The typical network connection for a LAN would be a network that connects devices in one building or multiple buildings using this network and the devices in LAN usually have very high bandwidth to be able to communicate to those devices.
+
+
+3.  What is a WAN?
+= A WAN can be seen as a user who is communicating to a location that is in another city, another country, or somewhere else around the world that means the user is communicating over a WAN.
+
+4. Why are the speeds slower on a WAN compared to LAN?
+= The speed on a WAN is slower compared to LAN because of the distance.
+
+
+5. What are some examples of technologies used in a WAN?
+= Some examples of technologies used in a WAN would be a point to point serial connection or MPLS and other types of wide area network technologies.
+
+
+6. How are WANs connected?
+= WANs are connected with fiber that’s in the ground or a non-terrestrial or satellite link.
+
+
+7. What is a PAN?
+= A PAN Personal Area Network can be seen as a connection that users use to pair phone and wireless earbuds. For example using bluetooth. 
+
+
+8. What are some examples of technologies used in a PAN?
+= Some examples of technologies used in a PAN would be Bluetooth, infrared or NFC connections. For example, connecting the phone to the car to access the audio system.
+
+
+9. What is one of the most common ways to connect a personal area network?
+= One of the most common ways to connect a personal area network would be Bluetooth.
+
+
+10. What type of telemetry can be acquired using a personal area network?
+= The type of telemetry that can be acquired using a personal area network would be by using a personal area network to communicate directly to the equipment and create reports. 
+
+
+11. What is a Metropolitan Area Network (MAN)?
+= A MAN Metropolitan Area Network is when companies have many locations within the same city or geographical area which means MAN is being used to connect all those sites.
+
+
+12. How does the distance of a MAN compare to that of a LAN and WAN?
+= The distance of a MAN compared to a LAN and WAN would be the distances to communicate to those sites are much longer than LAN and the range is in the middle compared to WAN.
+
+
+13. What is the most common topology for connecting sites in a MAN today?
+= The most common topology for connecting sites in a MAN today would be metro ethernet which is an ethernet connection on both sides and the service provider provides the link between those locations.
+
+
+14. What type of organizations tend to use Metropolitan Area Networks?
+= Government organizations tend to use Metropolitan Area Networks because they already have the right of way to be able to put conduit in the ground and extend fiber connections between all of their remote sites.
+
+
+15. What is a Storage Area Network (SAN)?
+= A Storage Area Network SAN is a way to extend saving, loading and changing file drives to a centralized form of storage.
+
+
+16. How is data accessed on a SAN?
+= Data is accessed on a SAN by block level access which provides access from local storage devices making it very efficient to read and write.
+
+
+17. What is the typical bandwidth requirement for a SAN?
+= The typical bandwidth requirement for a SAN is with very high bandwidth to send large files and retrieve large files from the storage area network.
+
+
+18. Are SANs isolated on their own networks?
+= YES, SANs are isolated on their own high speed networks. 
+
+
+19. What is a Wireless Local Area Network (WLAN)?
+= Wireless Local Area Network WLAN is communicating wirelessly to a network that’s in users building and that network is 802.11 network.
+
+
+20. What is the range of a WLAN?
+= The range of a WLAN is not very long that’s why they are often seen inside of a building or a localized area.
+
+
+21. How can the size of a WLAN be extended?
+= To extend a WLANs size would be by adding additional access points to be able extend the total size of the wireless local area network.
+
+
+22. How do WLANs differ from other wireless networks?
+= WLANs differ from other wireless networks because they don't have very long range for a wireless network. 
+________________
+
+Section -B  Q&A Network Types
+
+
+Q1. What is a LAN?
+1. A LAN is a Local Area Network. It can be seen as devices that are in a building or group of buildings that are nearby and a LAN network connects those devices there.
+
+Q2. What is a WAN network?
+1. A WAN can be seen as a user who is communicating to a location that is in another city, another country, or somewhere else around the world that means the user is communicating over a WAN.
+
+
+Q3. What is a PAN network?
+1. A PAN Personal Area Network can be seen as a connection that users use to pair phone and wireless earbuds. For example using bluetooth. 
+
+
+Q4. What is MAN network?
+1. A MAN Metropolitan Area Network is when companies have many locations within the same city or geographical area which means MAN is being used to connect all those sites.
+
+
+Q5. What is a SAN network?
+1. A Storage Area Network SAN is a way to extend saving, loading and changing file drives to a centralized form of storage.
+
+
+Q6. What is WLAN network?
+1. Wireless Local Area Network WLAN is communicating wirelessly to a network that’s in users' building and that network is 802.11 network.
