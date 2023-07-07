@@ -1,0 +1,90 @@
+DV500_53_PAS On Impact Printers  
+Possible Answer Sheet
+
+
+Q1. What is an Impact printer? 
+Ans: An Impact printer is one that presses against a ribbon to make a mark on the paper.
+
+
+Q2. _____________ is a type of impact printer.
+Ans. A dot matrix printer.
+
+
+Q3. How does a dot matrix printer work? 
+Ans. A dot matrix printer works by pressing against a ribbon to make a mark on the paper.
+
+
+Q4. What is the advantage of using a dot matrix printer? 
+Ans: The advantage of using a dot matrix printer is perfect if we are making multiple copies because we can have carbon paper and multiple pages being printed at the same time.
+
+
+Q5. What is the downside to using a dot matrix printer? 
+Ans: The downside to using a dot matrix printer is the process of making that impact against the paper creates noise.
+
+
+Q6. Why are dot matrix printers perfect if you’re making multiple copies?
+Ans. Dot matrix printers are perfect if we are making multiple copies because it is relatively low cost per page compared to other printing types.
+
+
+Q7. What type of printer is a dot matrix printer? 
+Ans: A dot matrix printer is an impact type printer.
+
+
+Q8. What is the resolution of a dot matrix printer? 
+Ans: The resolution of a dot matrix printer is not the highest resolution.
+
+
+Q9. Is a dot matrix printer suitable for very graphical output? 
+Ans: No, a dot matrix printer is not suitable for very graphical output.
+
+
+Q10. What is the purpose of the ribbon in a dot matrix printer? 
+Ans: The purpose of the ribbon in a dot matrix printer is we need to move ink that is inside of a ribbon onto the printed page itself.
+
+
+Q11. Why is the component containing the print head relatively large? 
+Ans: The component containing the print head is relatively large because most of this is a heat sink that dissipates the heat that’s created during the printing process.
+
+
+Q12. How many pins are inside the print matrix? 
+Ans: There are 24 pins inside the print matrix.
+
+
+Q13. How wide are the pins inside the print matrix? 
+Ans: The width of the pins inside the print matrix are a width of a single character.
+
+
+Q14. What material is the ribbon made of? 
+Ans:. The material the ribbon is made of is fabric.
+
+
+Q15. How do we get output on page?
+Ans. To get the output on the page we need to move ink that is inside of a ribbon onto the printed page itself.
+
+
+Q16. What should one make sure of when swapping out printer ribbons? 
+Ans: We should make sure that we have exactly the right model when sweeping out printer ribbons.
+
+
+Q17. What is inside of a ribbon cartridge? 
+Ans: Inside of a ribbon cartridge we will see that it is a one long piece of fabric that provides us with that ink for the printing process.
+
+
+Q18. Dot matrix printers commonly use a ____________to be able to pull the paper all the way through the printer.
+Ans. A tractor feed.
+
+
+Q19. How is the paper positioned in the printer? 
+Ans: The paper is positioned in the printer with the use of tracer feed to pull the paper through the printer and to control it much better than using something like friction.
+
+
+Q20. What should you do after confirming the paper is installed properly? 
+Ans: After confirming the paper is installed properly we can press the paper feed button, and it will pull the paper through the printer and prepare for the next print.
+
+
+Q21. What type of paper is commonly associated with mainframe printing? 
+Ans: Green bar paper is commonly associated with mainframe printing.
+
+
+Q22. What is the size of pages that are used in mainframe printing?
+Ans. The size of pages that are used in mainframe printing would be 11 inches high by 14 inch width.

@@ -1,0 +1,203 @@
+DV500_45_PAS On Computer Power
+Possible Answer Sheet
+
+
+
+Q1. Why should you disconnect from the power source when working on a computer? Ans: We should disconnect from the power source when working on a computer because it is a non-negotiable best practice. 
+
+
+Q2. What is a challenge you might have when working on electronic components? 
+Ans: A challenge we might have when working on electronic components is having capacitors that will store power.
+
+
+Q3. What should you never do when working with an electrical system? 
+Ans: We should never connect any part of our body to any part of the electronic system when working with an electrical system.
+
+
+Q4. What type of power does a computer motherboard and components commonly use? 
+Ans: A computer motherboard and components commonly use Direct Current to provide power.
+
+
+Q5. Power sources are receiving________________________ from the power outlet. 
+Ans.  Alternating Current.
+
+
+Q6. How would you get the conversion  betweenAC & DC?
+Ans. The conversion between AC and DC is done through the power supply of our computer, which converts that input of AC power to provide an output of DC power.
+
+
+Q7. What are the common voltages provided by power supplies? 
+Ans: The common voltages provided by power supplies are 3.3V volts, 5 volts, and 12 volts of DC power.
+
+
+Q8. One measurement that we use with power is an ______________.
+Ans. An ampere or an amp.
+
+
+Q9. What does an ampere measure? 
+Ans: An ampere measures how much changing voltage is going across a wire.
+
+
+Q10. What is voltage? 
+Ans: 
+
+
+Q11. What is a watt? 
+Ans: A watt is a measurement of the real power use for the power system.
+
+
+Q12. How would you calculate the number of watt used?
+Ans. We can calculate the number of watts used by taking the volts that are in use and multiply it by the number of amps, and we have a total number of watts.
+
+
+Q13. _______________ is the type of power that we are receiving from the outlet that’s in the wall. 
+Ans. Alternating current or AC
+
+
+Q14. Why do we commonly distribute power using alternating current?
+Ans. We commonly distribute power using alternating current because AC power can be sent over very long distances.
+
+
+Q15. What is the power of alternating current in the US and Canada? 
+Ans: The power of alternating current in the US and Canada is 110 t0 120 V of AC.
+
+
+Q16. What is the frequency of alternating current in Europe?
+Ans: The frequency of alternating current in Europe is 220 to 240 volts of AC.
+
+
+Q17.We often refer to the number of times this current alternates as a total number of _________________.
+Ans. Cycle or Hertz.
+
+
+Q18. If alternating current is going into our power supply, then______________, is what is coming out of our power supply and onto the _________________.
+Ans. Direct current DC, and Motherboard.
+
+
+Q19. What is the voltage and frequency for a power supply in the US? 
+Ans: The voltage and frequency for a power supply in the US is 120 volts of AC running at a 60-hertz frequency.
+
+
+Q20. What is the voltage and frequency for a power supply in Europe? 
+Ans: The voltage and frequency for a power supply in Europe is 230 volts of AC running at a 50-hertz frequency.
+
+
+Q21. What should be done if a computer is moved from one country to another? 
+Ans: If a computer is moved from one country to another we want to be sure that the power supply is able to support these changes in voltage.
+
+
+Q22. How can you determine the voltage of a wall outlet? 
+Ans: We can determine the voltage of a wall outlet by using a multimeter.
+
+
+Q23. What should you be careful of when using a manually switched power supply? 
+Ans: We should be careful when using a manually switched power supply because we don’t want to switch 120 volt power supply into a 230 volt power source.
+
+
+Q24. What is the purpose of the switch on the back of the power supply? 
+Ans: The purpose of the switch on the back of the power supply is that it automatically switches between 120 volt and 230 volt.
+
+
+Q25. What is the power supply used for? 
+Ans: The power supply is used to convert power to Direct Current.
+
+
+Q26. What is direct voltage? 
+Ans: Direct voltage is multiple voltages that will be used by different components on our motherboard.
+
+
+Q27. What is a characteristic of direct voltage? 
+Ans: A characteristic of direct voltage is its either a positive value or a negative value. The voltage is the difference in electrical potential as compared to the electrical ground.
+
+
+Q28. What components typically require higher voltages? 
+Ans: Components that typically require higher voltages are inside of our system that need additional power.
+
+
+Q29. What voltage is usually used for modern motherboards? 
+Ans: 3.3V volts is usually used for modern motherboards.
+
+
+Q30. What components take advantage of the 3.3 volts on modern motherboards? 
+Ans: Components that take advantage of the 3.3 volts on modern motherboards are M.2 slots, RAM slots, and other components on the motherboard.
+
+
+Q31. What is the Standby voltage used for? 
+Ans: The Standby voltage is used when our system is in a hibernate mode. And the standby is constantly checking to see if we are going to push the power button to bring the sleeping computer back to life.
+
+
+Q32. What type of components use negative 12 volts?
+Ans. Some older components on our system may use negative volts for integrated local area network connections or some of the older serial ports that are in our system.
+
+
+Q33. Are modern motherboards designed to use minus 5 volts?
+Ans. No, modern motherboards are not designed to use minus 5 volts.
+
+
+Q34. Does the power supply support the 120 volts used in the US? 
+Ans. Yes, the power supply does support the 120 volts used in the US.
+
+
+Q35. If you add up all of the DC voltage that’s supported by this power supply, it can support a total of __________.
+Ans. 850 watts.
+
+
+Q36. We get power from the power supply to the motherboard through this very large ______________.
+Ans. 24-pin connector.
+
+
+Q37. What type of connector is used in modern systems? 
+Ans: Full 24 pins of motherboard power is used in modern systems.
+
+
+Q38. How do you connect the power connector to the motherboard? 
+Ans: The power connector is connected to the motherboard with individual pins which are keyed so there’s only one way we can plug in to the power block.
+
+
+Q39. What type of computers likely have a single power supply? 
+Ans: Our computer at home probably has a single power supply inside of the system.
+
+
+Q40. What type of devices may have multiple power supplies? 
+Ans: A data center or other servers, and the devices that have multiple power supplies.
+
+
+
+Q41. How is the load shared between multiple power supplies? 
+Ans: The load is shared between multiple power supplies by each one of these power supplies technically handling 100% of the load.
+
+
+Q42. How do you remove a power supply from a server? 
+Ans: We remove a power supply from a server by hot-swapping.  There is a clip on top and we need to push it down and slide it out and replace it with a new one without powering down the server.
+
+
+Q43. What type of connectors are typically found on the side of a power supply that goes to the motherboard? 
+Ans: Fixed sets of connectors are typically found on the side of a power supply that goes to the motherboard.
+
+
+Q44. What is a modular power supply? 
+Ans: A modular power supply instead of having a cable that is permanently attached to the power supply, we can decide exactly what we’ll plug in and use as few or as many connections as we might need meaning we have fewer wires.
+
+
+Q45. How do you balance the maximum capacity of a power supply? 
+Ans: To balance the maximum capacity of a power supply we need to purchase a power supply that supports a very high number of watts.
+
+
+Q46. Does having additional capacity in your power supply change the overall speed or efficiency of your computer? 
+Ans: No, having additional capacity in our power supply doesn’t change the overall speed or efficiency of our computer.
+
+
+Q47. Can you purchase a power supply from any manufacturer? 
+Ans: Yes, the physical size of the power supplies are very standard and it shouldn’t be a problem to purchase a power supply from any manufacturer.
+
+
+Q48. What is the physical size of power supplies? 
+Ans: The physical size of the power supplies are very standard.
+
+
+Q49. What is needed to determine the proper size for a power supply for a system? 
+Ans: To determine the proper size for a power supply for a system we need to perform some calculations and there are a lot of websites that provide calculators that can help us with this.
+
+
+Q50. How do I calculate the wattage needed for my system? 
+Ans: We calculate the wattage needed for our system by determining the wattage we would need for all of the components inside of the system including the CPU, storage devices, video cards, and anything else inside of our computer case.

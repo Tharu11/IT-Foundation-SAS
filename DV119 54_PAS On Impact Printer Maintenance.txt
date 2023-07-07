@@ -1,0 +1,54 @@
+﻿DV500_54_PAS On Impact Printer Maintenance
+Possible Answer Sheet
+
+
+Q1. What is inside a dot matrix printer? 
+Ans: Inside a dot matrix printer there is an ink ribbon that’s inside of the printer that is one long piece of fabric.
+
+
+Q2. How does the ink in a printer ribbon get used up? 
+Ans:  The ink in a printer ribbon gets used up by going around and around and around to be able to provide the ink that we need to create the output on the page.
+
+
+Q3. How can the issue of a ribbon cartridge being worn out be resolved? 
+Ans:  The issue of a ribbon cartridge being worn out can be resolved by replacing the entire ribbon cartridge.
+
+
+Q4. What causes a dot matrix printhead to fail? 
+Ans: Cause for a dot matrix printhead to fail is because of the printhead constantly hitting the pons against the printed page.
+
+
+Q5. Do we need to replace the entire printhead if it eventually fails?
+Ans. Yes, we need to replace the entire printhead if it eventually fails.
+
+
+Q6. What is the purpose of the container for the printhead? 
+Ans: The purpose of the container for the printhead is it contains heatsinks to be able to pull the heat away from the printhead and dissipate that into the air.
+
+
+Q7. What is a printhead? 
+Ans: A printhead is a part of an impact printer that contains printer ink cartridges.
+
+
+Q8. What should be done when replacing a printhead? 
+Ans: When replacing a printhead we should be careful and not burn ourselves because they get very warm when printing.
+
+
+Q9. How is replacing paper in a dot matrix printer different from replacing paper in a laser printer or inkjet printer? 
+Ans: Replacing paper in a dot matrix printer is different from replacing paper in a laser printer or inkjet printer because replacing paper in a dot matrix printer is somewhat tricker and they don’t have a paper tray.
+
+
+Q10. What type of paper is typically used in a dot matrix printer? 
+Ans: One very long piece of paper is typically used in a dot matrix printer.
+
+
+Q11. What is necessary when replacing this paper into the printer? 
+Ans: It is necessary we are not using loose paper that we might use in a copier or a laser printer.
+
+
+Q12. What should you check before using a tractor feed in the printer? 
+Ans:  We should check and make sure the paper is straight and lined up perfectly and that the holes on the feed are connected with the holes on the paper when replacing paper into the printer before using a tractor feed in the printer.
+
+
+Q13. What if you’re sure that the paper has been installed properly?
+Ans.  If we are sure that the paper has been installed properly we can push the paper feed button and continue with the printing process.

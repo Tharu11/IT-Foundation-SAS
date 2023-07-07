@@ -1,0 +1,56 @@
+﻿DV500_52_PAS On Thermal Printer Maintenance
+Possible Answer Sheets
+
+
+Q1. What do you need to consider when purchasing replacement paper for a thermal printer? 
+Ans: We need to consider that we are getting exactly the right kind of paper when purchasing replacement paper for a thermal printer.
+
+
+Q2. How do you replace the paper in a thermal printer? 
+Ans: When replacing the paper in a thermal printer we need to open the printer, remove the old spool, and replace it with a new spool.
+
+Q3. It becomes very easy to quickly replace the paper in a thermal printer. (True/False)
+Ans. True.
+
+
+Q4. Why was there missing information on the output of the thermal printer?
+Ans. There is missing information on the output of the thermal printer because the heating element is dirty.
+
+
+Q5. What can be done to solve the problem of missing information on a thermal printer? Ans: Cleaning the heating element can solve the problem of missing information on a thermal printer.
+
+
+Q6. How will you make sure that the cleaning process is right for your printer?
+Ans. We can make sure that the cleaning process is right for our printer by checking the manufacturer’s recommendations to know exactly what cleaning process is right for our printer.
+
+
+Q7. How can we clean the heating elements? 
+Ans: We can clean the heating elements with cleaning pins with IPA inside them.
+
+
+Q8. How can you clean out a thermal printer? 
+Ans: We can clean out a thermal printer with some compressed air.
+
+
+Q9. How does thermal paper get dirty? 
+Ans: The thermal paper gets dirty when dust comes inside of the printer.
+
+
+Q10. What is an alternative to using compressed air to clean the inside of electronic equipment? 
+Ans:An alternative to using compressed air to clean the inside of electronic equipment is using a damp cloth.;
+
+
+Q11. What kind of vacuum cleaner should you use for electronic equipment? 
+Ans: Vacuum that is specifically designed to work with electronic equipment should be used when vacuum clean is needed.
+
+
+Q12. Why do we use a specific type of vacuum for electronic devices?
+Ans. We use a specific type of vacuum for electronic devices because the movement of all the dust tends to create static electricity which is very bad for electronic devices.
+
+
+Q13. What should you be careful of when using thermal paper? 
+Ans: We should be careful of heat when using thermal paper.
+
+
+Q14. Why don't we use thermal printers when archiving information? 
+Ans: We don’t use thermal printers when archiving information because it will fade throughout the years.

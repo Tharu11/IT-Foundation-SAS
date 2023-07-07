@@ -1,0 +1,66 @@
+DV500 51_SAS On Thermal Printers
+Self-Assessment Sheets
+
+
+Q1. What is a thermal printer? 
+Ans: A thermal printer operates by feeding a specially coated white paper into the printer. 
+
+
+Q2. Do thermal printers use any ink or toner?
+Ans. No, thermal printers do not use any ink or toner.
+
+
+Q3. Thermal Printers use _______________ to create the output.
+Ans. Use Heat
+
+
+Q4. We most commonly associate thermal printers with ________________.
+Ans. With receipt printers.
+
+
+Q5. What is one disadvantage of thermal printers? 
+Ans: One disadvantage of thermal printers is the paper is very sensitive to heat.
+
+
+Q6. What happens if you use clear tape on thermal paper? 
+Ans: If we use clear tape on thermal paper, the tape covering area will slowly turn white.
+
+
+Q7. If you're planning to archive any information, you probably want to use a thermal printer. (True/False)
+Ans. False.
+
+
+Q8. What is needed to pull paper through a thermal printer? 
+Ans: To pull paper through a thermal printer we need the feed assembly.
+
+
+Q9. _______________consists of a long cylinder that holds the paper in place with friction, and gears on the side that turn the cylinder and feed the paper through the printer.
+Ans. The feed assembly.
+
+
+Q10. What is the silver component in this printer? 
+Ans: The silver component in the printer is the heat element that’s creating the information on the page.
+
+
+Q11. How does the heating element create the information on the page? 
+Ans: The heating element creates the information on the page by heating the different parts of the heating element and creating the black color on the page.
+
+
+Q12. What is the silver heating element? 
+Ans. The silver heating element is extremely quick and very effective and the paper is sliding through and there is practically no noise from the actual printing process.
+
+
+Q13. What is thermochromic paper? 
+Ans. Thermochromic paper is the color change chemical that’s been added to the paper.
+
+
+Q14. What kind of paper is used in cash registers and credit card terminals? 
+Ans: Thermal paper is used in cash registers and credit card terminals.
+
+
+Q15. How does thermal paper look compared to regular paper? 
+Ans: The thermal paper looks very similar to regular paper but it feels very different.
+
+
+Q16. What should be kept in mind when buying or replacing paper for a thermal printer? 
+Ans: We should keep in mind when buying or replacing paper for a thermal printer is making sure we are buying exactly the right kind of paper.
