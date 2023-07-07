@@ -1,0 +1,36 @@
+15_PAS On IPv4 and IPv6
+Possible Answer Sheet
+
+
+1. How many bits are in an IPv4 address?
+= In an IPv4 has 32 bits/4 bytes.
+
+2. How many bits are in an IPv6 address?
+= An IPv6 has 128 bits/16 bytes. 
+
+3. What are the first 64 bits in an IPv6 address?
+= The first 64 bits in an IPv6 address would be the network prefix (/64).
+
+4. What are the second 64 bits in an IPv6 address?
+= The second/Last 64 bits in an IPv6 address would be the host network address.
+
+5. What is the highest possible digit/number for each byte in an IPv4 address?
+= The highest possible digit/number for each byte in an IPv4 address would be 255.
+
+6. What settings to check when troubleshooting IPv4?
+= The settings we need to check when troubleshooting IPv4 would be DNS server.
+
+7. What is Dynamic Host Configuration Protocol (DHCP)?
+= Dynamic Host Configuration Protocol (DHCP) is a network protocol that is used to configure network devices to communicate on an IP network.
+
+8. What port does a device use to broadcast to DHCP server?
+= Port used by a device to broadcast to DHCP server would be UDP port 64.
+
+9. What port does DHCP server use to broadcast to a device?
+= Port used by DHCP server to broadcast to a device would be UDP port 68.
+
+10. What is a subnet mask?
+= A subnet mask is used by the local device to determine what subnet it’s on.
+
+11. What is default gateway?
+= Default gateway would be when the router allows user to communicate outside of the local subnet by the default gateway must be an IP address in the local subnet.

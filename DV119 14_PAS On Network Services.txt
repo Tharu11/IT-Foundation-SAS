@@ -1,0 +1,54 @@
+14_PAS On Network Services
+Possible Answer Sheet
+
+
+1. What is a Web Server?
+= A Web Server responds to browser requests by using standard web browsing protocols such as HTTP/HTTPS. The pages are built with HTML, HTML5. The Web pages are stored on the server. 
+       
+2. What is a File Server?
+= A File Server is centralized storage of documents, spreadsheets, videos, pictures, and any other files (Fileshare). It is a standard system of file management  such as (SMB server message block). 
+       
+3. What is Print Server? 
+= Printer Server connects a printer to the network and provides printing services for all network devices. They are also connected to computers or most of the time they use built-in network adapters and software. 
+        
+4. What is a (Domain Name System) DNS Server?
+= DNS Server is a server that converts names to IP addresses and vice versa. It also distributes the naming system by balancing load across different servers.
+        
+5. What is a (Dynamic Host Configuration Protocol) DHCP Server?
+= DHCP Server automatically configures IP addresses. It is a very common server commonly seen at home routers.   
+      
+6. What is a Mail Server?
+= A Mail Server is used to send and receive mail.
+         
+7. What is a Proxy Server?
+= A Proxy Server is an intermediate server where clients make the request to the proxy. The proxy performs the actual request and the proxy provides results back to the client. Useful features include access control, caching, URL filtering, content scanning.
+
+8. What is an Authentication Server?
+= An Authentication Server is used to login using username and password which is managed by centralized management. 
+        
+9. What is SIEM (Security Information and Event Management)?
+= SIEM has a very large drive array and users are able to store a large number of files over very extended period of time.  
+      
+10. What is Forensic Analysis?
+= ForForensic analysis is commonly used in the field of computer security to investigate cybercrime, malware attacks, and other security incident scenic analysis is commonly used in the field of computer security to investigate cybercrime, malware attacks, and other security incidents   
+     
+11. What is Syslog?
+= Syslog is used as if users system collects logs, Syslog has an option to send those logs to a centralized database which uses syslog. 
+
+12. What is IDS (Intrusion Detection System)?
+= IDS would be where firewall and system management security play their roles in identifying a threat to a system. Such as malware inspection and spam filter.
+
+13. What is IPS(Intrusion Prevention System)?
+= IPS would be where a firewall helps systems with threats and eliminates such threats from router or switches. 
+
+14. What is All-in-one security appliance?
+= All in one security appliance would be next-generation firewall, unified threat management or web security gateway.
+
+15. What is Endpoint Management Server?
+= Endpoint Management Server would be used for users outside of the network and can be seen as an encrypted tunnel.
+
+16. What is a Legacy System?
+= A Legacy System can be seen as a really old system. It may also be really important because learning old things can be as important as a new one. Mostly runs on old softwares.
+
+17. What is an Embedded System?
+= An Embedded Systems is a purpose built device. This system doesn’t have direct access to the operating system such as the alarm system, door security and time card system.

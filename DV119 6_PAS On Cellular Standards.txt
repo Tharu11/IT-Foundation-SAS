@@ -1,0 +1,82 @@
+DV500_6_PAS Cellular Standards
+Possible Answer Sheet
+
+
+1. What were the original cellular networks called?
+Ans- The original cellular network was called 2G network.
+
+
+2. What are the two global standards for cellular network?
+Ans- The two global standards for cellular network are: GSM(Global System of Mobile Communications) and CDMA(Code Division Multiple Access).
+
+
+3. What does GSM stand for?
+Ans- Global System for Mobile Communications
+
+
+4. What does CDMA stand for?
+Ans- Code Division Multiple Access
+
+
+5. What does LTE stand for?
+Ans- Long Term Evolution 
+
+
+6. What is the newest generation of cellular network?
+Ans- 5G (Fifth generation cellular networking)
+
+
+7. Organizations handle email a little bit differently, and most organizations will have a corporate configuration that needs to be added to the mobile device. True and False?
+Ans- False
+
+
+8. CDMA was the most popular in the world and with providers. True or False?
+Ans- False CDMA was not popular in other parts of the world or providers.
+
+
+9. CDMA was used by what two mobile carriers?
+Ans- Commonly CDMA was used by Verizon and Sprint.
+
+
+10. What two standards of cellular network were very good for voice communication?
+Ans- GSM and CDMA were very good at standards when in came to good voice communication, but they had limited support when it came to sending data over the wireless networks.
+
+
+11.  What was a limitation with GSM and CDMA networks?
+Ans- The limitation of support when it came to sending data over the wireless networks.
+
+
+12.  What percentage of the worldwide market did GSM hold?
+Ans- GSM had around 90% of the worldwide market.
+
+
+13.  What network allowed you to have all of your phone configurations on a subscriber identity module or a SIM card?
+Ans- It was GSM network with AT&T and T-Mobile network that allowed it to have all of the user phone configurations on a subscriber identity module or we know it as SIM card. It also allowed the SIM card to be moved from one phone to another phone.
+
+
+14. This network allowed us to have much more capabilities for the data that we were sending from our mobile devices. And with additional speed, we could send more of that data much faster over these same networks?
+Ans- The network that allowed us to have much more capabilities for the data that we were sending from our mobile devices with faster speed over the same network was 3G technology in 1998.
+
+
+15. This network controlled exactly what handsets you were able to use on their networks and was not so popular around the world?
+Ans- This network was CDMA.
+
+
+16.  What was introduced as the third new network?
+Ans- The third new network or commonly known as 3G technology.
+
+
+17.  With the enhanced speeds of the 3G network, we were able to introduce new capabilities for our mobile handsets. What are some examples?
+Ans- With the enhanced speeds of the 3G network we were able to to introduce new capabilities for our mobile such as GPS, Streaming services(mobile TV) and video on demands.
+
+
+18.  What does LTE stand for and what are the average speed of the network?
+Ans- LTE stands for Long Term Evolution and the average speed of the network was up to 150 megabits and later with LTE-A the speed went to 300 megabits.
+
+
+19.  The new 5G networks have introduced greatly enhanced speeds. Eventually what speeds will the network be able to perform at?
+Ans- The network will eventually be able to perform at 10 gigabit per second.
+
+
+20. As these 5G networks are rolling out, you may find that you have speeds between ___ and __ megabits per second?
+Ans- between 100 and 900 megabits per second.

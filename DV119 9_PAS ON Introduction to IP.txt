@@ -1,0 +1,51 @@
+9_PAS On Introduction to IP
+Possible Answer Sheet
+
+
+1. What is Internet Protocol (IP)?
+= An internet protocol IP can be seen as a work for data to be transferred from one point to another so that the users can access specific data that they requested.
+         
+2. What is the meaning of Encapsulation?
+= The meaning of Encapsulation is the process that allows users to move all kinds of data across the network and let us have access to the application data we requested. 
+       
+3. What does TCP stand for?
+= TCP stands for Transmission Control Protocol. 
+       
+4. How does TCP (Transmission Control Protocol) work?
+= TCP works because it is connection-oriented in a formal connection setup and close. TCP is also reliable; it also recovers from error and manages out-of-order messages or retransmissions. The TCP flow control is also important because the receivers can manage how much data is sent so everything moves smoothly.
+
+5. What does UDP stand for?
+= UDP stands for User Datagram Protocol. 
+       
+6. How does UDP (User Datagram Protocol) work?
+= UDP works as connectionless with no formal open or close to the connection. The UDP can be seen as an unreliable delivery because there is no error recovery and no reordering of data or retransmissions. In UDP there is no flow control meaning the sender determines the amount of data being transmitted.
+
+7. What is OSI Layer 4?
+= OSI Layer 4 is referred to as the OSI model.
+
+8. What does OSI Layer 4 - Transport Layer do?
+= OSI Layer 4 can use TCP and UDP as operating at the transportation layer for the OSI model.
+
+9. What is Multiplexing?
+= Multiplexing is a feature that allows users to receive the data that is destined for the IP address and the port number allows users to know exactly what service running on the device will be receiving the data.
+
+10. What is a port?
+= A ports can be seen as a numbered device that distinguishes each device in the IP address. For example, a user has 4 devices. The 1st Laptop can be port 12, 2nd Laptop can be port 23, 3rd phone can be port 43, 4th phone can be port 90.
+
+11. What is a Port Number?
+= A port number can be seen as a process that makes it possible for the data that the user is requesting to be delivered to a specific device.
+
+12. What does IPv4 Socket consist of?
+= IPv4 sockets consist of the Server IP address, protocol, server application port number. There is also Client IP address, protocol, client port number. 
+
+13. What are Non-Ephemeral Ports?
+= Non-Ephemeral Posts is a permanent port number that is permanent to a specific device.
+
+14. What are Ephemeral Ports?
+= Ephemeral Ports are temporary ports that are assigned to a device and once the data is delivered this port is no longer useful.
+
+15. What is Data Transport Analogy?
+= A Data Transport Analogy is to move the data project from the target to the source.
+
+16. What is Network Topology?
+= A network topology can be seen as the physical and logical relationship of nodes in a network which are the arrangement of the links and nodes.

@@ -1,0 +1,33 @@
+16_PAS On Assigning IP Addresses
+Possible Answer Sheet
+
+
+1. How to assign IPv4 IP addresses for Private IP?
+=  We can assign IPv4 IP addresses for Private IP would be manually such as configuration done manually where there is IP address, subnet mask, gateway, DNS servers, NTP servers, and more.
+
+2. What is the process of DHCP (Dynamic Host Configuration Protocol)?
+= The process of DHCP is that it has 4 steps DORA where the 1st step is discover which is finding a DHCP server, 2nd step would be Offer which gets an offer, 3rd step would be Request which locks in the offer and 4th step is Acknowledge which is DHCP server conformation.
+
+3. What is the result of DHCP (Dynamic Host Configuration Protocol)?
+= The result of DHCP is that it provides an automatic configuration of IP addresses, subnet masks, default gateways, and many more settings. 
+
+4. Features of Static IP address?
+= Features of Static IP address would be assigning an IP address that doesn't change such as server, printer, or preference. There is also manual configuration such as requesting additional administration.
+
+5. Features of Dynamic IP address?
+= Features of Dynamic IP address would be user can configure the IP address manually, users can change IP address from DHCP server by using DHCP reservation.
+
+6. What is Automatic Private IP Address (APIPA)?
+= APIPA is a network that is a local address and there is no forwarding done by routers in that network.
+
+7. What is unicast addresses?
+= Unicast addresses are a single interface address meaning when a packet is sent to a unicast address it travels from one host to the destination host.
+
+8. What is multicast addresses?
+= Multicast addresses would be a type of IP address that is network location labeled which is used to multicast data packets within a network. With multicast a user can send a single copy of data and that data can be sent to multiple users. 
+ 
+9. What is anycast addresses?
+= Anycast addresses would be an IP network addressing process that allows multiple servers to share the same IP address.
+
+10. What is BootP?
+= BootP is a protocol that can automatically assign IP addresses to devices.

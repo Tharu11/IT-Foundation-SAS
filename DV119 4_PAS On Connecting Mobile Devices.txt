@@ -1,0 +1,63 @@
+DV500_4_PAS On Connecting Mobile Devices 
+Possible Answer Sheet
+
+
+1. What does USB stand for?
+Ans- USB stands for Universal Serial Bus.
+
+2. What are USBs used for?
+Ans- USBs are used for High-speed wired communication and they are also used for the charging purposes and while transferring data in a way it helps connect devices in those purposes. 
+
+3. What type of plug are we seeing less of on laptops?
+Ans- Serial interface DB-9 plug or 9 pin plug is the one that we don’t really see in the newer devices but they can still be seen in older model devices.
+
+4. What is NFC?
+Ans- NFC is Near Field Communication it sends small amounts of data wirelessly in limited space.
+
+5. What does NFC do?
+Ans- NFC is Near Field Communication it sends small amounts of data wirelessly in limited space. It can be used for payment systems like paying with your phone like Apple pay or it can also be used to exchange information in-person like automatic doors when a badge/ID is scanner it automatically opens the door.
+
+6. Give an example of NFC?
+Ans- It can be used for payment systems like paying with your phone like Apple pay or it can also be used to exchange information in-person like automatic doors when a badge/ID is scanner it automatically opens the door.
+
+7. What method is the most used in mobile device connectivity?
+Ans- The most used method in mobile device connectivity would be Bluetooth which is a high speed communication over short distances. Can be used to pair devices like Iphone with Apple watch and airpods. 
+
+8. What are examples of mobile hot spot?
+Ans- Examples of mobile hotspots would be using your phone cellular provider's personal data network and sharing with others around you and making your phone like a router. 
+
+9. What device uses lightning connection?
+Ans- Devices that commonly use a lightning connection would be most of the Apple products.
+
+10.  What interface was used before USB?
+Ans- Before USB the interface that was being used would be serial interface    DB-9 interface. 
+
+11.  What connection has nine pins?
+Ans- DB-9 plug has nine pins. 
+
+12.  Sometimes DB-9 is referred to as?
+Ans- DB-9 is also referred to as DB-9 connection.
+
+13. What replaced DB-9?
+Ans- DB-9 was replaced by USB (Universal Serial Bus).
+
+14.  If you have an older device, it may be connecting over USB with what type of USB?
+Ans- If there is an older device it may be connecting over USB with mini B plug.
+
+15.  Many of today’s mobile devices connectivity will use which USB?
+Ans- Many of today’s mobile devices connectivity will be using USB micro B plug.
+
+16.  What type of signals can USB-C plug send?
+Ans- The signals that can be send using USB-C would be Display port for PC, HDMI video and audio, thunderbolt to transfer data and using is as a regular connector.
+
+
+17.  RS232 is associated with what type of interface?
+Ans- RS232 is associated with the DB-9 interface where DB-9 serials would commonly transport RS232 signals.
+
+
+18.  Is mobile hotspot free on all devices?
+Ans- Mobile hotspot is not free on all devices most of the time users might have to pay additional fee when using this service to their cellular provider.
+
+
+19.  What is 802.1?
+Ans- 802.11 can be seen as a method that enables devices to be able to gain access to the internet where there might not be a public access point internet available.

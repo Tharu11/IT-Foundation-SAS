@@ -1,0 +1,57 @@
+13_PAS On Wireless Network Standards
+Possible Answer Sheet
+
+
+1. What is 802.11a speed?
+= 802.11a speed is 54 megabits per second.
+
+2. What is 802.11a Frequency & range?        
+= 802.11a Frequency and range is 5GHz.
+
+3. What are some other features of 802.11a?
+= Other features of 802.11a would be higher frequency being absorbed by the objects in the way.
+        
+4. What is 802.11b Speed?
+= 802.11b speed is 11 megabits per second. 
+       
+5. What is 802.11b Frequency & range?        
+= 802.11b 2.4 GHz range.
+
+6. What are some other features of 802.11b?
+= Other features of 802.11b would be less absorption problems.  
+       
+7. What is 802.11g Speed?
+= 802.11g speed is 54 megabits per second.        
+
+8. What is 802.11g Frequency & range?        
+= 802.11g frequency and range is 2.4 GHz.
+
+9. What are some other features of 802.11g?
+= Other features of 802.11g would be 2.4 GHz frequency conflict problems.        
+
+10. What is 802.11n Speed?
+= 802.11n speed is 40 MHz and 600 megabits per second. 
+       
+11. What is 802.11n Frequency & range?
+= 802.11n frequency and range is 5GHz and 2.4 GHz.        
+
+12. What are some other features of 802.11n?
+= Some other features of 802.11n would be it has multiple input, multiple output, multiple transmit and receive antennas.
+
+13. What is 802.11ac Speed?
+= 802.11ac speed is 160 MHz.
+         
+14. What is 802.11ac Frequency & range?
+= 802.11 ac frequency and range would be 5GHz.  
+      
+15. What is 802.11ax Speed?
+= 802.11ax speed is 5GHz or 2.4 GHz.
+        
+16. What is 802.11ax Frequency & range?
+= 802.11ax frequency and range would be 20, 40, 80, and 160 MHz (1,201 megabits per second). 
+       
+17. What is RFID?        
+= RFID is Radio Frequency Identification.
+
+18. How does RFID work?
+= RFID works by the help of radio frequency that it emits near the sensor for example unlocking doors with a badge or ID card that we might see in buildings.

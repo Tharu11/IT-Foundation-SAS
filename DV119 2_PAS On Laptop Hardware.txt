@@ -1,0 +1,97 @@
+DV500_2PAS On Laptop Hardware
+Possible answer sheet
+
+
+
+
+1. What does it mean to be modular? 
+Ans - To be modular it means something that can be taken out easily and connected easily. In our case it is a laptop battery that can be taken out of the laptop from the bottom part of the laptop. This type of laptop battery was commonly seen in older models of laptop for example old windows laptops. 
+
+
+If the battery is not modular that means it is built inside the laptop case and it can’t be taken out easily for example current MacBooks.
+
+
+2. What type of battery technology do we use today?
+Ans- Nowadays we use lithium ion or lithium-ion polymer batteries and these batteries are designed to be fully charged.
+
+
+3. What happens each time you charge a battery?
+Ans- Each time we charge a battery it gets worn out(diminishes) just a bit and over time we start to see it with the health of the battery and we realize that the battery we have now in the laptop isn't the same as it was when we bought it.
+
+
+4. What is one advantage to using a modular battery configuration?
+Ans- Advantage to using a modular battery configuration is that it is easy to replace if one we currently have gets damaged we just have to push some pin and the modular battery will easily slide out of the laptop and we can change it with the new one and we are good to go.
+
+
+Which can’t be said about the battery that is built in the case of the laptop.
+
+
+5. True or False? lithium-ion batteries are designed to be 80 percent charged. 
+Ans- I think it is False that lithium-ion batteries are designed to be 80 percent charged because I don’t think that’s the case at first when we buy them new they are 100 percent charged. It’s just over the years of use they start to show their age. 
+
+
+6. True or False? In lithium-ion batteries, discharging some of the battery and charging it back up again you have to worry about causing a effect on memory or limiting the amount of capacity that battery might have.
+Ans- False the lithium-ion batteries do not cause any type of effect when they are discharged and charged again. It doesn’t cause any effect on memory or limits the amount of capacity that battery might have.
+
+
+But over time the battery does start to show its age meaning the battery diminishes over time.
+
+
+7. Where are all the programs that are executing in your operating system executing?
+Ans- All the programs that are executing in our operating system it happens in memory.
+
+
+8. What does SO-DIMM stand for?
+Ans- SO-DIMM stands for small outline dual in-line memory module.
+
+
+9. Where is SO-DIMM usually used?
+Ans- SO-DIMM is usually used in laptops and mobile devices and they can be found separate from motherboard or in a motherboard. If it is separate then it would have a slot in the laptop where it would go.  
+
+
+10.  Are you able to change/upgrade memory for a device that has it soldered to the motherboard?
+Ans- No we can’t change or upgrade a memory for a device if it is soldered to the motherboard. The only option we have to change or upgrade is replacing the whole motherboard with a new one.  
+
+
+11.  In what form do older laptops have storage in?
+Ans- The older laptop had a magnetic disk as a hard drive which were physical drives that would spin. 
+ 
+
+
+12.  In what form do new laptops have storage?
+Ans- In newer laptops we have SSD solid state drives that are faster and smaller in size compared to HDD hard disk drives. 
+
+
+13.  What is one advantage of SSD?
+Ans- One advantage of SSD would be they can be replaced without having to worry about damaging small parts like in magnetic disk drives which had moving parts.  
+
+
+14.  What is one way you can migrate from a hard drive to an SSD
+Ans- One way to migrate from a hard drive to an SSD would be by creating a clone or an image of the hard drive and moving those images to the SSD. This process doesn’t require an installation on the OS.
+
+
+15.  What are some types of authentications?
+Ans- Some types of authentications are face scans, finger print, use of pin# or regular passwords.  
+
+
+16. What is one disadvantage of laptop keyboard?
+Ans- One disadvantage of laptop keyboard is that it is the most used part of the laptop and when it comes to laptop keyboard compared to traditional PC keyboard is the size of the keyboard to fit it in the laptops some of the extra function keys are not available and layout of the keyboard might be changed.  
+
+
+17.  What is NFC?
+Ans- Near field communication in simple terms is it allows to transfer data and perform authentication without having to touch the device for example paying with your phone like apple pay.   
+
+
+18. What does NFC allow you to do?
+Ans- Near field communication in simple terms is it allows to transfer data and perform authentication without having to touch the device for example paying with your phone like apple pay.   
+
+
+19.  Is m.2 a modular setup?
+Ans- I don’t think m.2 is a modular setup because it is inside the case and if we want to upgrade our storage space we would have to open the laptop or PC to change it.
+
+
+However, compared to Hard drives which required SATA connecter in wire form or built in the drive SSD are faster and smaller.   
+
+
+20. M.2 interface on an SSD drive is larger than traditional SATA-connected SSD? True or False?
+Ans- True, yes that would be one of the standing features of the two drives.

@@ -1,0 +1,88 @@
+DV500_3_PAS On Laptop Displays
+Possible Answer Sheet
+
+
+1. What does LCD stand for?
+Ans- LCD stands for liquid crystal display.
+
+
+2. What is a disadvantage in LCD?
+Ans- A disadvantage in LCD would be that it needs a light source behind the display that shines through and provides color which we are able to see on the screen. 
+
+
+Also there is one problem because the light has to shine through the display. It is really hard to get true black color through the display.
+
+
+3. What are three different technologies of liquid crystal displays?
+Ans- The three different technologies of liquid crystal displays are:
+i. TN (Twisted Nematic) which is original LCD technology
+ii. IPS (In Plane Switching) 
+iii. VA (Vertical Alignment) best in between the 3 options
+
+
+4. If you’re looking for the best possible color representation on an LCD display, you’ll want to use?
+Ans- If I want the best possible color representation on an LCD display I would get an IPS (In Plane Switching) LCD because it has excellent color representation but it can be expensive. 
+
+
+5. If you’re looking for the best possible response you’ll want to?
+Ans- If I am looking for the best possible response in LCD I would get a TN (Twisted Nematic) LCD because it has fast response timing for ex. (gaming).  
+
+
+6. If you’re a gamer or using some application that has fast moving graphics, what type of LCD should you use?
+Ans- A gamer or someone who needs fast moving graphics I would get a TN (Twisted Nematic) LCD fast response time. 
+
+
+7. What LCD gives you very good color representation, which is great for using graphics or doing some type of desktop publishing?
+Ans- LCD that gives a very good color representation that is great for using graphics or doing some type of desktop publishing. I would get a VA (Vertical Alignment) LCD because it has good color representation and it is perfect because it’s right between the TN and IPS LCDs.
+
+
+8. What does TN LCD stand for?
+Ans- Twisted Nematic  
+
+
+9. What does IPS LCD stand for?
+Ans- In plane Switching 
+
+
+10. What does VA display stand for?
+Ans- Vertical alignment 
+
+
+11.  What is the newest from of display?
+Ans- The newest form of display would be a OLED (Organic Light Emitting Diode) here organic compound in display emits lights when it receives an electric current.
+
+
+12.  What does OLED stand for?
+Ans- OLED stands for (Organic Light Emitting Diode).
+
+
+13.  OLED has a backlight. True or False?
+Ans- False OLED has organic compound in it which emits lights when it gets electric current. 
+
+
+14.  In older laptops, you may find that the backlight that it’s using is.
+Ans- In older laptops, we may find the backlight called CCFL (Cold Cathode Fluorescent Lamp) 
+
+
+15. Newer LCD displays might use what type of lights instead of using a fluorescent lamp?
+Ans- In newer LCD displays we would be LED backlit. Which means replacing fluorescent lamps with LED ones.
+
+
+16. What component in your device may only allow for stylus input, or it might also provide input using a touch screen?
+Ans- The component in the device that only allows for stylus input or touch screen would be Digitizer in the display. 
+
+
+17.  What type of display does not have liquid crystals?
+Ans- The display that does not have liquid crystals in it would be OLED displays because they don’t use liquid crystals to emit light.
+
+
+18.  Why are OLEDs so thin?
+Ans- The reason why OLEDs are so thin is because they don’t have a lackling or liquid crystals which means no need for the glass in them which makes OLEDs so thin. 
+
+
+19.  In OLED displays, you need glass on the front screen to protect it? True or False?
+Ans- False OLEDs displays there are no glass because it doesn’t need one which makes them so thin.
+
+
+20.  How does OLED work?
+Ans- OLED works because of the organic material in them which emits light when it receives current.

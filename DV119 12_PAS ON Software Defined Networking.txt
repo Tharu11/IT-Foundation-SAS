@@ -1,0 +1,33 @@
+12_PAS ON Software Defined Networking
+Possible Answer Sheet
+
+
+1. What is Software Defined Networking (SDN)?
+= Software Defined Networking (SDN) takes devices like switches, routers, firewalls and other networking infrastructure devices and changes them to be a software base platform that could be used in the cloud. 
+        
+2. What are Computer Networking Planes?
+= Computer Networking Planes are components of telecommunication networks that consist of three planes: data plane, control plane and management plane. 
+       
+3. What is Data Plane?
+= Data Plane is part of three layers which are used to separate devices in the networking components. The Data Plane is also known as the infrastructure layer; this layer does forwarding, the trunking, the encrypting, the network address translation, or anything else that needs to occur at that packet level. 
+       
+4. What is Control Plane?
+= Control Plane is when a user's router and switches need to forward the traffic in the data plane, they need some references to know where the traffic is going and these references are found in the control layer or control plane. Things from dynamic routing protocols, forwarding tables in a switch, a network address translation table in a router all the management is done in the control plane.  
+      
+5. What is Management Plane?        
+= Management Plane is able to manage devices by needing to log in or access the device via an API or Application Programming Interface and all this access is provided at the application layer or management plane of the device. 
+
+6. What is Software Defined Networking Controller (SDN Controller)?
+= SDN Controllers can take devices such as switches, routers, firewalls and other networking infrastructure devices and can change them to be a software based platform that users use in the cloud. 
+         
+7. What is Distributed Control Planes?
+= Distributed Control Planes is when network infrastructure creates modular layers that users can extend between devices or create new devices all based on the software defined networking.  
+       
+8. What is Controller Based Networking?
+= Controller Based Networking is how the controller communicates to the networking devices and is able to manage, configure, monitor and troubleshoot virtual networks. 
+       
+9. What is a Routed Port?
+= A Routed Port is a physical port that interacts with an interface on a router. 
+       
+10. What is OpenFlow?
+= OpenFlow is a protocol that allows a server to tell network switches where to send the packets.

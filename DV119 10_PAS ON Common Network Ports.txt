@@ -1,0 +1,63 @@
+10_PAS ON Common Network Ports
+Possible Answer Sheet
+
+
+1. What is Port 20 (TCP)?
+= Port 20 (TCP) is an active mode data. This is for data transfers. File transfer protocol.
+
+2. What is Port 21 (TCP)?
+= Port 21 (TCP) is a control. This is to control the data transfer. FIle transfer protocol to transfer.
+
+3. What is FTP (File Transfer Protocol)?
+= FTP File Transfer Protocol as the name implies it is for transferring of files from one device to another. FTP is a generic way of transferring data but it requires some type of authentications such as username and password.
+
+4. What is Port 22 (TCP)?
+= Port 22 (TCP) is used commonly by Secure Shell which communicates over TCP using port 22 and it has a text based front end to be able to access a remote device.
+
+5. What is SSH (Secure Shell)?
+= SSH (Secure Shell) is a way a user can connect to a remote device through a terminal or user can command the front end.
+
+6. What is Port 23 (TCP)?
+= Port 23 (TCP) is used by Telnet which provides the connection that is text based front end which allows users to connect to a remote console of another device.
+
+7. What is Telnet?
+= A Telnet is a text based front end that allows users to connect to the remote console of another device. But the Telnet front end and Telnet server are all sent in the clear, or not encrypted. 
+
+8. What is Port 25 (TCP)?
+= Port 25 (TCP) is used by the email servers that use it to communicate with each other as Simple Mail Transfer Protocol or SMTP.
+
+9. What is Simple Mail Transfer Protocol (SMTP)?
+= SMTP is used to communicate between mail servers and it is also used for our mail clients to send mail to a mail server. 
+
+10. What is Port 53 (UDP)?
+= Port 53 (UDP) is used by the DNS domain name system which uses this port to make the connection between user and the DNS server.
+
+11. What is DNS (Domain Name System)?
+= DNS (Domain Name System) is used to resolve an IP address from a fully qualified domain name in case there is no server and IP address relation to that browser.
+
+12. What is Port 80 (TCP)?
+= Port 80 is used by HTTP protocol meaning the communications are in clear, non-encrypted form.
+
+13. What is Port 443 (TCP)?
+= Port 443 (TCP) is used by HTTPS (S for secure)  meaning the communications are encrypted.
+
+14. What is HTTP (Hypertext Transfer Protocol)?
+= HTTP is a common protocol used by browsers to communicate with web servers.
+
+15. What is HTTPS (Hypertext Transfer Protocol Secure)?
+= HTTPS is also a common protocol used by browsers to communicate with web servers but this protocol is secure meaning communications are encrypted.
+
+16. Port 110 (TCP)?
+= Port 110 (TCP) is used by POP3 Post Office Protocol version 3 and it was designed to retrieve email messages to an email client.
+
+17. What is Port 143 (TCP)?
+= Port 143 (TCP) is used by IMAP4 Internet Message Access Protocol version 4 and it is able to download and manage mailboxes.
+
+18. POP and IMAP?
+= POP is Post Office Protocol and IMAP is Internet Message Access Protocol.
+
+19. What is POP3 (Post Office Protocol version 3)?
+= POP3 (Post Office Protocol version 3) retrieves email messages to an email client and it is not built for multiple email clients. 
+
+20. What is IMAP (Internet Message Access Protocol)?
+= IMAP (Internet Message Access Protocol) is synchronized across all of the different mailboxes and it’s able to download and manage those mailboxes.

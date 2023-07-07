@@ -1,0 +1,159 @@
+17_PAS ON DNS CONFIGURATION
+Possible Answer Sheet
+
+
+1. What is DNS and how does it work?
+= DNS (Domain Name System) and it can be seen as the server that converts the fully qualified domain names that users might type into their browser that networks might use, like an IP address. 
+
+
+2. What is the structure of the DNS hierarchy?
+= The structure of the DNS hierarchy can be seen as fully qualified domain names such as .com, .net, .edu, .gov and we also have DNS for nations like .us or .uk. 
+
+
+3. How can you see the translation of a domain name to an IP address?
+= To translate a domain name to an IP address we need to run a command line dig for a website and the result we get from the command show will have a summary of what was requested.
+
+
+4. How many root server clusters are there in DNS?
+= There are 13 root server clusters in DNS.
+
+
+5. What are generic top-level domains?
+= Generic top-level domains are .com, .net, .org and more.
+
+
+6. What is SPF
+= SPF is a sender policy framework where there is a list of all the email servers that are authorized to send messages using users' fully qualified domain name. This was created to help prevent others from spoofing users' fully qualified domain names.
+
+
+7. How many servers are in a root server cluster?
+= A root server cluster has over 1,000 different servers.
+
+
+9. What is the purpose of having three different IP addresses associated with a web server?
+= The purpose for having three different Ip addresses associated with a web server is for redundancy. In any case one of the IP addresses doesn’t work. There are other two can IP addresses to communicate back. 
+
+
+10. How can you check the IP addresses associated with a website if the dig command is not available?
+= To check IP addresses associated with a website if the dig command is not available you can use a nslookup and website, which will go to users locally configured DNS server and provide websites IP address.
+
+
+11. What are resource records in DNS?
+= Resource records in DNS can be seen as a large database that contains fully qualified domain names, Ip addresses, and other details that can help users systems perform the translation between fully qualified domain name and IP address.
+
+
+12. Why is a DNS server considered a critical resource?
+= A DNS server is considered a critical resource because if a DNS server is not available the request made to visit a website will be nothing because there will be no translation between fully qualified domain name and IP address.
+
+
+13. How is a DNS server's configuration typically stored?
+= DNS server’s configuration is typically stored in text information that can be used for other purposes. such as making changes to the domain.
+
+
+14. What is an A record and a AAAA record in DNS?
+= A record are address records for IP version 4 and this record has a fully qualified domain name and the associated IP version 4 address. 
+= AAAA records are for IPv6 and this also has a fully qualified domain name, associated IPv6 with associated domain name.
+
+
+15. Is it possible to configure DNS using a web-based front end?
+= Yes it is possible to configure DNS using a web-based front end. What we need to do is instead of understanding all of the different records and where configuration files go. Users can put them into a web-based front end and make the changes from there. 
+
+
+16. How is the time to live in DNS server specified?
+= The time to live in a DNS server is specified by how long an end station will remember this match between a fully qualified domain name and IP address.
+
+
+17. What does it mean if a device requests the IP address for a particular record?
+= If a device requests the IP address for a particular record it means that after 15 minutes the information is removed from the cache, and if devices needs to communicate agin it has to request again for a website for that particular record IP address.
+
+
+18. How is the same information presented in a web-based front end compared to a text file?
+= The information presented in a web-based front end compared to a text file can be seen as if we would separate out the A record, hostname, IP address, and the time to live for IP address. 
+
+
+19. What is the purpose of the time to live in a DNS server?
+= The purpose of the time to live in a DNS server is to specify how long an end station will remember the match between a fully qualified domain name and IP address.
+
+
+20. How long is the time to live for a DNS server typically set for?
+= The time to live for a DNS server is typically 15 minutes.
+
+
+21. What happens when the time to live for a DNS server is up?
+= When the time to live for a DNS server is up, the user has to visit the website again.
+
+
+22. What is an MX (Mail Exhange) record in DNS?
+= An MX Mail Exchange record in DNS is a list of IP addresses, and fully qualified domain names, and the user has some canonical or alias names that have been assigned inside a DNS server.
+
+
+23. What other record is needed in order for an MX record to work?
+= Other records needed in order for an MX record to work are Authority records.
+
+
+24. What is the purpose of a TXT (Text) record in DNS?
+= The purpose of a TXT (text) record in DNS is that people are able to query these text records on user servers, these text records were designed for a very informal purpose. 
+
+
+25. How can the authenticity of an email be verified using a DNS text record?
+= The authenticity of an email can be verified using a DNS text record is by the list of all of the email servers that are authorized to send messages using users fully qualified domain name.
+
+
+26. How can you view the text records for a specific domain?
+= You can view the text records for a specific domain by using nslookup (nslookup-type=txt, and the domain name such as google.com on the device.
+
+
+27. What are some examples of uses for text records in a DNS server?
+= Some examples of use of text records in a DNS server would be for verification purposes. Where a user might be making a configuration change to their domain, and that domain change will require that the user must add something very specific to a text record in the DNS server.
+
+
+28. How can you view text records for a domain if dig is not available?
+= If dig is not available to view text records for a domain we can use an nslookup.
+
+
+29. What is an SPF record in DNS?
+= An SPF record in DNS is a mail server receiving an email that says it was from google.com it will query the google.com DNS server, retrieve the SPF record in the DNS server and be able to determine if this is something that really came from an authorized host.
+
+
+30. How does an SPF record help to prevent others from spoofing a domain?
+= An SPF record to prevent others from spoofing a domain is done by the sender policy framework that has a list of all of the email servers that are authorized to send messages using users' fully qualified domain name.
+
+
+31. What is a DKIM record in DNS?
+= DKIM record in DNS is about making the configuration change in the web-based front end, and the user can see, it’s a large bit of text that is the public key for all of the digital signatures that have been sent from this domain.
+
+
+32. How is the public key for a DKIM record stored in DNS?
+= The public key for a DKIM record is stored in DNS by using DKIM text record, or Domain keys Identified Mail. That’s going to get validated by the mail servers as that message is traversing the network, and the public key associated with this digital signature is added to a text record on users DNS server.
+
+
+33. How do you configure a DKIM record in a web-based front end?
+= DKIM record can be configured in a web-based front end by a large bit of text that is the public key for all of the digital signatures that have been sent from the user domain.
+
+
+34. What is DMARC in DNS?
+= DMARC (Domain-based Message Authentication Reporting and Conformance) in DNS is an extension of the SPF and DKIM processes. DMARC takes the extra step to determine the disposition that should be used when someone receives a message that can’t be validated.
+
+
+35. What can you specify in a DMARC record in DNS?
+= We can specify a DMARC record in DNS if a message is not validated, simply accept it, or maybe send it to a spam folder, or simply reject the email entirely. 
+
+
+36. How does DMARC work with SPF and DKIM?
+= DMARC works with SPF and DKIM by using mail servers behind the scenes keeping track of how many mail messages have been validated and how many have failed the validation, and then user can receive a report that shows exactly how many messages were able to get through based on the SPF and DKIM configuration.
+
+
+37. What can you do with the report generated by a DMARC record?
+= With the report generated by a DMARC record we can see that the content is specified in the email messages.
+
+
+38. How does a mail server use a DMARC record?
+= A mail server uses a DMARC record by keeping track of how many mail messages have been validated and how many failed to validate.  
+
+
+39. How do you add a DMARC record in DNS?
+= We add a DMARC record in DNS by specifying what to do with the email messages and where to send the report so that you can examine how the user's mail has been distributed.
+
+
+40. What does the DNS server have
+= The DNS server has a large database that contains fully qualified domain names, IP addresses, and other details that can help system perform the translation between fully qualified domain name and IP address.
